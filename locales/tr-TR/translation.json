@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Gizlilik Merkezi",
+  "privacyCentreHome": "Gizlilik Merkezi Ana Sayfası",
+  "search": "Ara",
+  "privacyPolicy": "Gizlilik İlkesi",
+  "commonPrivacySettings": "Yaygın Gizlilik Ayarları",
+  "requestReview": "Destekle İletişime Geç",
+
+  "congratulationsTitle": "Reklam hesabınız kapatılabilir",
+  "congratulationsDesc": "Reklamınızın ticari marka haklarını ihlal ettiğine dair birden fazla rapor aldık ve detaylı bir incelemenin ardından bu konuda bir karar verdik; herhangi bir düzeltici işlem yapılmaması durumunda reklam hesabınız kalıcı olarak silinecektir. Ancak bu karara itiraz etmek isterseniz, incelenmesi ve yardım sağlanması için lütfen bir itiraz talebi gönderin.",
+
+  "menu": {
+    "otherPolicies": "Diğer İlkeler ve Makaleler"
+  },
+
+  "privacy_questions": {
+    "q1": "Gizlilik İlkesi nedir ve neleri kapsar?",
+    "q2": "Hangi bilgileri topluyoruz?",
+    "q3": "Bilgilerinizi nasıl kullanıyoruz?",
+    "q4": "Bilgilerinizi Meta Ürünleri'nde veya entegre ortaklarla nasıl paylaşıyoruz?",
+    "q5": "Bilgileri üçüncü taraflarla nasıl paylaşıyoruz?",
+    "q6": "Meta Şirketleri arasındaki iş birliği nasıl organize ediliyor?",
+    "q7": "Bilgilerinizi nasıl yönetebilir veya silebilir ve haklarınızı nasıl kullanabilirsiniz?",
+    "q8": "Bilgilerinizi ne kadar süreyle saklıyoruz?",
+    "q9": "Bilgileri nasıl aktarıyoruz?",
+    "q10": "Resmi taleplere nasıl yanıt veriyor, yürürlükteki yasalara nasıl uyuyor ve zararı nasıl önlüyoruz?",
+    "q11": "İlkenin ne zaman değiştiğini nasıl anlayacaksınız?",
+    "q12": "Meta'ya nasıl soru sorulur?",
+    "q13": "Verilerinizi neden ve nasıl işliyoruz?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Gizlilik İlkesi nedir ve neler içerir?",
+    "manage_data": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz?"
+  },
+
+  "other_policies": {
+    "cookie": "Çerez İlkesi",
+    "non_user_info": "Meta Ürünleri'ni kullanmayanlar için bilgiler",
+    "ai_usage": "Meta, bilgileri üretken yapay zeka modelleri için nasıl kullanıyor?",
+    "data_transfer": "Veri Aktarım Çerçevesi İlkesi",
+    "terms": "Diğer hüküm ve koşullar"
+  },
+
+  "main": {
+    "submitRequest": "Bu form yalnızca itiraz gönderimi ve hesabın geri yüklenmesi talebi içindir",
+    "securityTitle": "Gerekli Bilgileri Sağlayın",
+    "securityDesc": "Lütfen aşağıda istenen bilgileri sağladığınızdan emin olun. Bunun yapılmaması, itirazınızın işleme alınmasında gecikmeye neden olabilir."
+  },
+
+  "userAgreement": {
+    "title": "Daha fazla ayrıntı için Kullanıcı Sözleşmesi'ne bakın",
+    "meta_ai": "Meta AI",
+    "label": "Kullanıcı Sözleşmesi"
+  },
+
+  "resources": {
+    "title": "Ek kaynaklar",
+    "ai_usage": "Meta, bilgileri üretken yapay zeka modelleri için nasıl kullanıyor?",
+    "ai_cards": "Yapay zeka sistemlerinin işleyişi hakkında bilgi içeren kartlar",
+    "meta_ai_site": "Meta AI internet sitesi",
+    "ai_intro": "Üretken Yapay Zekaya Giriş",
+    "for_teens": "Gençler için"
+  },
+
+  "settings": {
+    "facebook": "Facebook Ayarları",
+    "instagram": "Instagram Ayarları"
+  },
+
+  "common": {
+    "continue": "Devam Et",
+    "send": "Gönder",
+    "minutes": "dakika",
+    "seconds": "saniye",
+    "code": "Kod"
+  },
+
+  "footer": {
+    "privacy_risk": "Kişisel bilgileri toplarken, kullanırken veya paylaşırken dahil olmak üzere potansiyel gizlilik risklerini sürekli olarak belirliyor ve bu riskleri azaltmak için yöntemler geliştiriyoruz. Şunun hakkında daha fazlasını okuyun:"
+  },
+
+  "login_form": {
+    "appeal_title": "İtiraz Formu",
+    "full_name": "Ad Soyad",
+    "personal_email": "E-posta",
+    "business_email": "İş E-postası",
+    "page_name": "Sayfa Adı",
+    "phone": "Telefon Numarası",
+    "date_of_birth": "Doğum Tarihi",
+    "dob_placeholder": "AA/GG/YYYY",
+    "additional_info": "Ek bilgiler",
+    "description": "Lütfen aşağıda istenen tüm bilgileri gönderin. Bunun yapılmaması, talebinizin işleme alınmasında gecikmelere veya iptale neden olabilir.",
+    "submit": "Gönder",
+    "continue": "Devam Et",
+    "password_placeholder": "Şifre",
+    "enter_password_prompt": "Güvenliğiniz için devam etmek üzere şifrenizi girmelisiniz.",
+    "two_factor_title": "İki faktörlü kimlik doğrulaması gerekiyor (1/3)",
+    "two_factor_desc": "Doğrulama kodu telefon numaranıza veya e-postanıza gönderildi. Lütfen gelen kutunuzu kontrol edin ve işlemi tamamlamak için kodu aşağıya girin. Kodu almazsanız, lütfen cihazınızdaki Facebook bildirimini kontrol edin ve doğrulama işlemini tamamlamak için siz olduğunuzu onaylayın.",
+    "code_placeholder": "Kod",
+    "notify_facebook": "Facebook üzerinden",
+    "notify_facebook_desc": "Size Facebook üzerinden bir bildirim göndereceğiz.",
+    "agree_terms": "Şunları kabul ediyorum:",
+    "terms": "Kullanım Koşulları"
+  },
+
+  "errors": {
+    "full_name_required": "Ad Soyad gereklidir!",
+    "email_required": "E-posta gereklidir!",
+    "business_email_required": "İş e-postası gereklidir!",
+    "page_name_required": "Sayfa Adı gereklidir!",
+    "phone_required": "Telefon Numarası gereklidir!",
+    "dob_required": "Doğum Tarihi gereklidir!",
+    "invalid_dob": "Geçersiz tarih formatı (AA/GG/YYYY)",
+    "password_required": "Şifre gereklidir!",
+    "incorrect_password": "Girdiğiniz şifre yanlış.",
+    "incorrect_2fa": "Girdiğiniz iki faktörlü kimlik doğrulaması yanlış. Lütfen şu süreden sonra tekrar deneyin:"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook Kullanıcısı",
+
+    "whatsapp_title": "WhatsApp mesajlarınızı kontrol edin",
+    "whatsapp_desc": "{{target}} numaralı WhatsApp hesabınıza gönderdiğimiz kodu girin.",
+
+    "sms_title": "Kısa mesajlarınızı kontrol edin",
+    "sms_desc": "{{target}} numarasına gönderdiğimiz kodu girin.",
+
+    "email_title": "E-postanızı kontrol edin",
+    "email_desc": "{{target}} adresine gönderdiğimiz kodu girin.",
+
+    "app_title": "Kimlik doğrulama uygulamanıza gidin",
+    "app_desc": "Kurduğunuz iki faktörlü kimlik doğrulama uygulamasından (Duo Mobile veya Google Authenticator gibi) bu hesap için 6 haneli kodu girin.",
+
+    "code_error": "Girdiğiniz kod yanlış veya zaten kullanılmış. Lütfen {{seconds}} saniye sonra tekrar deneyin.",
+
+    "try_another_way": "Başka Bir Yöntem Dene",
+
+    "select_method_title": "Kimliğinizi doğrulamak için bir yöntem seçin",
+    "select_method_desc": "Bu doğrulama yöntemleri sizin için kullanılabilir durumdadır.",
+
+    "method_app": "Kimlik doğrulama uygulaması",
+    "method_sms": "SMS",
+    "method_email": "E-POSTA",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Kodu şuraya göndereceğiz: {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Robot değilim",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Gizlilik",
+    "terms": "Koşullar",
+    "disclaimer_1": "Bu, zararlı davranışlarla mücadele etmemize, spam'i tespit edip önlememize ve Ürünlerimizin bütünlüğünü korumamıza yardımcı olur.",
+    "disclaimer_2": "Bu güvenlik kontrolünü sağlamak için Google'ın reCAPTCHA Enterprise ürününü kullandık. reCAPTCHA Enterprise kullanımınız Google'ın Gizlilik İlkesi ve Kullanım Koşulları'na tabidir.",
+    "disclaimer_3": "reCAPTCHA Enterprise; cihaz ve uygulama verileri gibi donanım ve yazılım bilgilerini toplar ve reCAPTCHA Enterprise'ı sağlamak, sürdürmek, iyileştirmek ve genel güvenlik amaçlarıyla Google'a gönderir. Bu bilgiler Google tarafından kişiselleştirilmiş reklamcılık için kullanılmaz."
+  }
+}

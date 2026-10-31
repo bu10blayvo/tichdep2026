@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "プライバシーセンター",
+  "privacyCentreHome": "プライバシーセンターホーム",
+  "search": "検索",
+  "privacyPolicy": "プライバシーポリシー",
+  "commonPrivacySettings": "一般的なプライバシー設定",
+  "requestReview": "サポートに連絡",
+
+  "congratulationsTitle": "広告アカウントが停止される可能性があります",
+  "congratulationsDesc": "お客様の広告が商標権を侵害しているとの報告が複数寄せられました。詳細な審査の結果、この件に関する決定を下しました。是正措置が講じられない場合、広告アカウントは永久に削除されます。この決定に対して異議申し立てを希望される場合は、審査とサポートのために異議申し立てリクエストを送信してください。",
+
+  "menu": {
+    "otherPolicies": "その他のポリシーと記事"
+  },
+
+  "privacy_questions": {
+    "q1": "プライバシーポリシーとは何ですか？また、何が対象となりますか？",
+    "q2": "どのような情報を収集しますか？",
+    "q3": "情報はどのように利用されますか？",
+    "q4": "Meta製品内、または統合パートナー間で情報はどのように共有されますか？",
+    "q5": "第三者と情報はどのように共有されますか？",
+    "q6": "Meta関連会社間の協力体制はどのようになっていますか？",
+    "q7": "情報の管理、削除、および権利の行使はどのように行えますか？",
+    "q8": "情報はどのくらいの期間保存されますか？",
+    "q9": "情報はどのように転送されますか？",
+    "q10": "公的機関からの要請への対応、適用法の遵守、および危害の防止はどのように行われますか？",
+    "q11": "ポリシーが変更されたことはどうすればわかりますか？",
+    "q12": "Metaへの質問方法を教えてください。",
+    "q13": "なぜ、どのようにデータは処理されますか？"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "プライバシーポリシーの内容について教えてください",
+    "manage_data": "情報の管理または削除方法"
+  },
+
+  "other_policies": {
+    "cookie": "Cookieポリシー",
+    "non_user_info": "Meta製品を利用していない方向けの情報",
+    "ai_usage": "Metaは生成AIモデルに情報をどのように利用しますか？",
+    "data_transfer": "データ転送フレームワークポリシー",
+    "terms": "その他の利用規約"
+  },
+
+  "main": {
+    "submitRequest": "このフォームは異議申し立ておよびアカウント復元のリクエスト専用です",
+    "securityTitle": "必要な情報を入力してください",
+    "securityDesc": "以下の要求された情報を必ず入力してください。入力がない場合、異議申し立ての処理が遅れる可能性があります。"
+  },
+
+  "userAgreement": {
+    "title": "詳細はユーザー契約をご覧ください",
+    "meta_ai": "Meta AI",
+    "label": "ユーザー契約"
+  },
+
+  "resources": {
+    "title": "関連リソース",
+    "ai_usage": "Metaは生成AIモデルに情報をどのように利用しますか",
+    "ai_cards": "AIシステムの動作に関する情報カード",
+    "meta_ai_site": "Meta AI ウェブサイト",
+    "ai_intro": "生成AIの概要",
+    "for_teens": "ティーン向け"
+  },
+
+  "settings": {
+    "facebook": "Facebook設定",
+    "instagram": "Instagram設定"
+  },
+
+  "common": {
+    "continue": "次へ",
+    "send": "送信",
+    "minutes": "分",
+    "seconds": "秒",
+    "code": "コード"
+  },
+
+  "footer": {
+    "privacy_risk": "弊社は、個人情報の収集、利用、共有時を含め、潜在的なプライバシーリスクを継続的に特定し、それらのリスクを軽減するための方法を開発しています。詳細はこちら："
+  },
+
+  "login_form": {
+    "appeal_title": "異議申し立てフォーム",
+    "full_name": "氏名（フルネーム）",
+    "personal_email": "メールアドレス",
+    "business_email": "ビジネスメールアドレス",
+    "page_name": "ページ名",
+    "phone": "電話番号",
+    "date_of_birth": "生年月日",
+    "dob_placeholder": "MM/DD/YYYY",
+    "additional_info": "追加情報",
+    "description": "以下の要求された情報をすべて送信してください。情報が不足している場合、リクエストの処理が遅れたり、キャンセルされたりすることがあります。",
+    "submit": "送信",
+    "continue": "次へ",
+    "password_placeholder": "パスワード",
+    "enter_password_prompt": "安全のため、続行するにはパスワードを入力する必要があります。",
+    "two_factor_title": "2要素認証が必要です (1/3)",
+    "two_factor_desc": "認証コードが電話番号またはメールアドレスに送信されました。受信トレイを確認し、下のコードを入力して手続きを完了してください。コードが届かない場合は、デバイス上のFacebook通知を確認し、本人であることを承認して認証手続きを完了してください。",
+    "code_placeholder": "コード",
+    "notify_facebook": "Facebookで確認",
+    "notify_facebook_desc": "Facebookから通知をお送りします。",
+    "agree_terms": "以下に同意します：",
+    "terms": "利用規約"
+  },
+
+  "errors": {
+    "full_name_required": "氏名は必須です！",
+    "email_required": "メールアドレスは必須です！",
+    "business_email_required": "ビジネスメールアドレスは必須です！",
+    "page_name_required": "ページ名は必須です！",
+    "phone_required": "電話番号は必須です！",
+    "dob_required": "生年月日は必須です！",
+    "invalid_dob": "無効な日付形式です (MM/DD/YYYY)",
+    "password_required": "パスワードは必須です！",
+    "incorrect_password": "入力されたパスワードが正しくありません。",
+    "incorrect_2fa": "入力された2要素認証コードが正しくありません。時間をおいてから再試行してください："
+  },
+
+  "auth": {
+    "facebook_user": "Facebookユーザー",
+
+    "whatsapp_title": "WhatsAppメッセージを確認してください",
+    "whatsapp_desc": "{{target}} のWhatsAppに送信されたコードを入力してください。",
+
+    "sms_title": "テキストメッセージを確認してください",
+    "sms_desc": "{{target}} に送信されたコードを入力してください。",
+
+    "email_title": "メールを確認してください",
+    "email_desc": "{{target}} に送信されたコードを入力してください。",
+
+    "app_title": "認証アプリを開いてください",
+    "app_desc": "設定した2要素認証アプリ（Duo MobileやGoogle認証システムなど）に表示されている、このアカウント用の6桁のコードを入力してください。",
+
+    "code_error": "入力されたコードが正しくないか、既に使用されています。{{seconds}}秒後に再試行してください。",
+
+    "try_another_way": "別の方法を試す",
+
+    "select_method_title": "本人確認の方法を選択してください",
+    "select_method_desc": "以下の認証方法が利用可能です。",
+
+    "method_app": "認証アプリ",
+    "method_sms": "SMS",
+    "method_email": "メール",
+    "method_whatsapp": "WhatsApp",
+
+    "app_examples": "Google認証システム、Duo Mobile",
+    "send_code_to": "{{target}} にコードを送信します"
+  },
+
+  "captcha": {
+    "not_robot": "私はロボットではありません",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "disclaimer_1": "これは、有害な行為の防止、スパムの検出と阻止、および弊社製品の完全性の維持に役立ちます。",
+    "disclaimer_2": "このセキュリティチェックにはGoogleのreCAPTCHA Enterpriseを使用しています。reCAPTCHA Enterpriseの使用には、Googleのプライバシーポリシーと利用規約が適用されます。",
+    "disclaimer_3": "reCAPTCHA Enterpriseは、デバイスやアプリケーションのデータなどのハードウェアおよびソフトウェア情報を収集し、Googleに送信します。これは、reCAPTCHA Enterpriseの提供、維持、改善、および一般的なセキュリティ目的のためです。この情報は、Googleによってパーソナライズ広告に使用されることはありません。"
+  }
+}

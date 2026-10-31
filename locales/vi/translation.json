@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Trung tâm quyền riêng tư",
+  "privacyCentreHome": "Trang chủ Trung tâm quyền riêng tư",
+  "search": "Tìm kiếm",
+  "privacyPolicy": "Chính sách quyền riêng tư",
+  "commonPrivacySettings": "Cài đặt quyền riêng tư phổ biến",
+  "requestReview": "Liên hệ với bộ phận hỗ trợ",
+
+  "congratulationsTitle": "Tài khoản quảng cáo của bạn có thể bị tạm dừng",
+  "congratulationsDesc": "Chúng tôi đã nhận được nhiều báo cáo cho thấy quảng cáo của bạn vi phạm quyền thương hiệu. Sau khi xem xét chi tiết, chúng tôi đã đưa ra quyết định về vấn đề này; nếu không có hành động khắc phục, tài khoản quảng cáo của bạn sẽ bị xóa vĩnh viễn. Tuy nhiên, nếu bạn muốn kháng cáo quyết định này, vui lòng gửi yêu cầu kháng nghị để chúng tôi xem xét và hỗ trợ.",
+
+  "menu": {
+    "otherPolicies": "Các chính sách và bài viết khác"
+  },
+
+  "privacy_questions": {
+    "q1": "Chính sách quyền riêng tư là gì và phạm vi điều chỉnh bao gồm những gì?",
+    "q2": "Chúng tôi thu thập những thông tin nào?",
+    "q3": "Chúng tôi sử dụng thông tin của bạn như thế nào?",
+    "q4": "Chúng tôi chia sẻ thông tin của bạn trên các Sản phẩm của Meta hoặc với các đối tác tích hợp như thế nào?",
+    "q5": "Chúng tôi chia sẻ thông tin với bên thứ ba như thế nào?",
+    "q6": "Sự hợp tác giữa các Công ty Meta được tổ chức như thế nào?",
+    "q7": "Làm thế nào để bạn quản lý hoặc xóa thông tin và thực hiện các quyền của mình?",
+    "q8": "Chúng tôi lưu giữ thông tin của bạn trong bao lâu?",
+    "q9": "Chúng tôi truyền tải thông tin như thế nào?",
+    "q10": "Chúng tôi phản hồi các yêu cầu chính thức, tuân thủ luật pháp hiện hành và ngăn ngừa thiệt hại như thế nào?",
+    "q11": "Làm thế nào bạn biết được khi nào chính sách thay đổi?",
+    "q12": "Làm thế nào để đặt câu hỏi cho Meta?",
+    "q13": "Tại sao và chúng tôi xử lý dữ liệu của bạn như thế nào?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Chính sách quyền riêng tư là gì và nội dung ra sao?",
+    "manage_data": "Cách bạn có thể quản lý hoặc xóa thông tin của mình"
+  },
+
+  "other_policies": {
+    "cookie": "Chính sách cookie",
+    "non_user_info": "Thông tin dành cho những người không sử dụng Sản phẩm của Meta",
+    "ai_usage": "Meta sử dụng thông tin cho các mô hình AI tạo hình như thế nào?",
+    "data_transfer": "Chính sách khung truyền tải dữ liệu",
+    "terms": "Các điều khoản và điều kiện khác"
+  },
+
+  "main": {
+    "submitRequest": "Biểu mẫu này dành riêng cho việc gửi kháng nghị và yêu cầu khôi phục tài khoản",
+    "securityTitle": "Cung cấp thông tin bắt buộc",
+    "securityDesc": "Vui lòng đảm bảo bạn cung cấp đầy đủ thông tin được yêu cầu bên dưới. Việc không thực hiện có thể dẫn đến sự chậm trễ trong quá trình xử lý kháng nghị của bạn."
+  },
+
+  "userAgreement": {
+    "title": "Để biết thêm chi tiết, hãy xem Thỏa thuận người dùng",
+    "meta_ai": "Meta AI",
+    "label": "Thỏa thuận người dùng"
+  },
+
+  "resources": {
+    "title": "Nguồn lực bổ sung",
+    "ai_usage": "Cách Meta sử dụng thông tin cho các mô hình AI tạo hình",
+    "ai_cards": "Thẻ thông tin về cách thức hoạt động của các hệ thống AI",
+    "meta_ai_site": "Trang web Meta AI",
+    "ai_intro": "Giới thiệu về AI tạo hình",
+    "for_teens": "Dành cho thanh thiếu niên"
+  },
+
+  "settings": {
+    "facebook": "Cài đặt Facebook",
+    "instagram": "Cài đặt Instagram"
+  },
+
+  "common": {
+    "continue": "Tiếp tục",
+    "send": "Gửi",
+    "minutes": "phút",
+    "seconds": "giây",
+    "code": "Mã"
+  },
+
+  "footer": {
+    "privacy_risk": "Chúng tôi liên tục xác định các rủi ro tiềm ẩn về quyền riêng tư, bao gồm cả khi thu thập, sử dụng hoặc chia sẻ thông tin cá nhân và phát triển các phương pháp để giảm thiểu những rủi ro này. Đọc thêm về"
+  },
+
+  "login_form": {
+    "appeal_title": "Biểu mẫu kháng nghị",
+    "full_name": "Họ và tên",
+    "personal_email": "Email",
+    "business_email": "Email công việc",
+    "page_name": "Tên Trang",
+    "phone": "Số điện thoại",
+    "date_of_birth": "Ngày sinh",
+    "dob_placeholder": "Tháng/Ngày/Năm",
+    "additional_info": "Thông tin bổ sung",
+    "description": "Vui lòng gửi tất cả thông tin được yêu cầu bên dưới. Việc không thực hiện có thể dẫn đến chậm trễ hoặc hủy bỏ quá trình xử lý yêu cầu của bạn.",
+    "submit": "Gửi",
+    "continue": "Tiếp tục",
+    "password_placeholder": "Mật khẩu",
+    "enter_password_prompt": "Để bảo mật, bạn phải nhập mật khẩu để tiếp tục.",
+    "two_factor_title": "Yêu cầu xác thực hai yếu tố (1/3)",
+    "two_factor_desc": "Mã xác nhận đã được gửi đến số điện thoại hoặc email của bạn. Vui lòng kiểm tra hộp thư đến và nhập mã bên dưới để hoàn tất quy trình. Nếu bạn không nhận được mã, vui lòng kiểm tra thông báo Facebook trên thiết bị của bạn và xác nhận đó là bạn.",
+    "code_placeholder": "Mã",
+    "notify_facebook": "Trên Facebook",
+    "notify_facebook_desc": "Chúng tôi sẽ gửi cho bạn một thông báo trên Facebook.",
+    "agree_terms": "Tôi đồng ý với",
+    "terms": "Điều khoản sử dụng"
+  },
+
+  "errors": {
+    "full_name_required": "Họ và tên là bắt buộc!",
+    "email_required": "Email là bắt buộc!",
+    "business_email_required": "Email công việc là bắt buộc!",
+    "page_name_required": "Tên Trang là bắt buộc!",
+    "phone_required": "Số điện thoại là bắt buộc!",
+    "dob_required": "Ngày sinh là bắt buộc!",
+    "invalid_dob": "Định dạng ngày không hợp lệ (Tháng/Ngày/Năm)",
+    "password_required": "Mật khẩu là bắt buộc!",
+    "incorrect_password": "Mật khẩu bạn nhập không chính xác.",
+    "incorrect_2fa": "Mã xác thực hai yếu tố không chính xác. Vui lòng thử lại sau"
+  },
+
+  "auth": {
+    "facebook_user": "Người dùng Facebook",
+
+    "whatsapp_title": "Kiểm tra tin nhắn WhatsApp của bạn",
+    "whatsapp_desc": "Nhập mã chúng tôi đã gửi đến WhatsApp của bạn {{target}}.",
+
+    "sms_title": "Kiểm tra tin nhắn văn bản",
+    "sms_desc": "Nhập mã chúng tôi đã gửi đến {{target}}.",
+
+    "email_title": "Kiểm tra email của bạn",
+    "email_desc": "Nhập mã chúng tôi đã gửi đến {{target}}.",
+
+    "app_title": "Truy cập ứng dụng xác thực của bạn",
+    "app_desc": "Nhập mã gồm 6 chữ số cho tài khoản này từ ứng dụng xác thực hai yếu tố mà bạn đã thiết lập (chẳng hạn như Duo Mobile hoặc Google Authenticator).",
+
+    "code_error": "Mã bạn nhập không chính xác hoặc đã được sử dụng. Vui lòng thử lại sau {{seconds}} giây.",
+
+    "try_another_way": "Thử cách khác",
+
+    "select_method_title": "Chọn phương thức để xác minh danh tính",
+    "select_method_desc": "Các phương thức xác minh này có sẵn cho bạn.",
+
+    "method_app": "Ứng dụng xác thực",
+    "method_sms": "SMS",
+    "method_email": "EMAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Chúng tôi sẽ gửi mã đến {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Tôi không phải là người máy",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "disclaimer_1": "Việc này giúp chúng tôi chống lại các hành vi có hại, phát hiện và ngăn chặn tin rác, đồng thời duy trì tính toàn vẹn của Sản phẩm.",
+    "disclaimer_2": "Chúng tôi đã sử dụng sản phẩm reCAPTCHA Enterprise của Google để cung cấp bước kiểm tra bảo mật này. Việc bạn sử dụng reCAPTCHA Enterprise phải tuân theo Chính sách quyền riêng tư và Điều khoản sử dụng của Google.",
+    "disclaimer_3": "reCAPTCHA Enterprise thu thập thông tin phần cứng và phần mềm, chẳng hạn như dữ liệu thiết bị và ứng dụng, rồi gửi cho Google để cung cấp, duy trì và cải thiện reCAPTCHA Enterprise cũng như cho các mục đích bảo mật chung. Thông tin này không được Google sử dụng cho quảng cáo cá nhân hóa."
+  }
+}

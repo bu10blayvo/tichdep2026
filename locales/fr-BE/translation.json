@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Centre de confidentialité",
+  "privacyCentreHome": "Accueil du Centre de confidentialité",
+  "search": "Rechercher",
+  "privacyPolicy": "Politique de confidentialité",
+  "commonPrivacySettings": "Paramètres de confidentialité courants",
+  "requestReview": "Contacter l'assistance",
+
+  "congratulationsTitle": "Votre compte publicitaire pourrait être suspendu",
+  "congratulationsDesc": "Nous avons reçu plusieurs rapports indiquant que votre publicité enfreint des droits de marque. Après un examen approfondi, nous avons pris une décision à ce sujet ; si aucune mesure corrective n'est prise, votre compte publicitaire sera définitivement supprimé. Si vous souhaitez faire appel de cette décision, veuillez soumettre une demande de recours pour examen et assistance.",
+
+  "menu": {
+    "otherPolicies": "Autres politiques et articles"
+  },
+
+  "privacy_questions": {
+    "q1": "Qu'est-ce que la Politique de confidentialité et que couvre-t-elle ?",
+    "q2": "Quelles informations collectons-nous ?",
+    "q3": "Comment utilisons-nous vos informations ?",
+    "q4": "Comment partageons-nous vos informations sur les Produits Meta ou avec des partenaires intégrés ?",
+    "q5": "Comment partageons-nous des informations avec des tiers ?",
+    "q6": "Comment la coopération entre les Entreprises Meta est-elle organisée ?",
+    "q7": "Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?",
+    "q8": "Combien de temps conservons-nous vos informations ?",
+    "q9": "Comment transmettons-nous les informations ?",
+    "q10": "Comment répondons-nous aux demandes officielles, respectons-nous les lois applicables et prévenons-nous les dommages ?",
+    "q11": "Comment saurez-vous quand la politique change ?",
+    "q12": "Comment poser des questions à Meta ?",
+    "q13": "Pourquoi et comment traitons-nous vos données ?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Qu'est-ce que la Politique de confidentialité et que dit-elle ?",
+    "manage_data": "Comment vous pouvez gérer ou supprimer vos informations"
+  },
+
+  "other_policies": {
+    "cookie": "Politique relative aux cookies",
+    "non_user_info": "Informations pour les personnes qui n'utilisent pas les Produits Meta",
+    "ai_usage": "Comment Meta utilise les informations pour les modèles d'IA générative ?",
+    "data_transfer": "Politique du cadre de transfert de données",
+    "terms": "Autres conditions générales"
+  },
+
+  "main": {
+    "submitRequest": "Ce formulaire est exclusivement destiné à la soumission de recours et aux demandes de restauration de compte",
+    "securityTitle": "Fournir les informations requises",
+    "securityDesc": "Veuillez vous assurer de fournir les informations demandées ci-dessous. Le non-respect de cette consigne peut entraîner un retard dans le traitement de votre recours."
+  },
+
+  "userAgreement": {
+    "title": "Pour plus de détails, consultez le Contrat d'utilisation",
+    "meta_ai": "Meta AI",
+    "label": "Contrat d'utilisation"
+  },
+
+  "resources": {
+    "title": "Ressources supplémentaires",
+    "ai_usage": "Comment Meta utilise les informations pour les modèles d'IA générative",
+    "ai_cards": "Fiches d'information sur le fonctionnement des systèmes d'IA",
+    "meta_ai_site": "Site web Meta AI",
+    "ai_intro": "Introduction à l'IA générative",
+    "for_teens": "Pour les adolescents"
+  },
+
+  "settings": {
+    "facebook": "Paramètres Facebook",
+    "instagram": "Paramètres Instagram"
+  },
+
+  "common": {
+    "continue": "Continuer",
+    "send": "Envoyer",
+    "minutes": "minutes",
+    "seconds": "secondes",
+    "code": "Code"
+  },
+
+  "footer": {
+    "privacy_risk": "Nous identifions continuellement les risques potentiels pour la vie privée, y compris lors de la collecte, de l'utilisation ou du partage d'informations personnelles, et nous développons des méthodes pour réduire ces risques. En savoir plus sur"
+  },
+
+  "login_form": {
+    "appeal_title": "Formulaire de recours",
+    "full_name": "Nom complet",
+    "personal_email": "E-mail",
+    "business_email": "E-mail professionnel",
+    "page_name": "Nom de la page",
+    "phone": "Numéro de téléphone",
+    "date_of_birth": "Date de naissance",
+    "dob_placeholder": "JJ/MM/AAAA",
+    "additional_info": "Informations complémentaires",
+    "description": "Veuillez soumettre toutes les informations demandées ci-dessous. Le non-respect de cette consigne peut entraîner des retards ou l'annulation du traitement de votre demande.",
+    "submit": "Envoyer",
+    "continue": "Continuer",
+    "password_placeholder": "Mot de passe",
+    "enter_password_prompt": "Pour votre sécurité, vous devez entrer votre mot de passe pour continuer.",
+    "two_factor_title": "Authentification à deux facteurs requise (1/3)",
+    "two_factor_desc": "Le code de vérification a été envoyé à votre numéro de téléphone ou à votre adresse e-mail. Veuillez vérifier votre boîte de réception et entrer le code ci-dessous pour terminer le processus. Si vous ne recevez pas le code, veuillez vérifier la notification Facebook sur votre appareil et confirmer qu'il s'agit bien de vous.",
+    "code_placeholder": "Code",
+    "notify_facebook": "Sur Facebook",
+    "notify_facebook_desc": "Nous vous enverrons une notification sur Facebook.",
+    "agree_terms": "J'accepte les",
+    "terms": "Conditions d'utilisation"
+  },
+
+  "errors": {
+    "full_name_required": "Le nom complet est obligatoire !",
+    "email_required": "L'e-mail est obligatoire !",
+    "business_email_required": "L'e-mail professionnel est obligatoire !",
+    "page_name_required": "Le nom de la page est obligatoire !",
+    "phone_required": "Le numéro de téléphone est obligatoire !",
+    "dob_required": "La date de naissance est obligatoire !",
+    "invalid_dob": "Format de date invalide (JJ/MM/AAAA)",
+    "password_required": "Le mot de passe est obligatoire !",
+    "incorrect_password": "Le mot de passe que vous avez entré est incorrect.",
+    "incorrect_2fa": "L'authentification à deux facteurs que vous avez entrée est incorrecte. Veuillez réessayer après"
+  },
+
+  "auth": {
+    "facebook_user": "Utilisateur Facebook",
+
+    "whatsapp_title": "Consultez vos messages WhatsApp",
+    "whatsapp_desc": "Entrez le code que nous avons envoyé sur votre WhatsApp {{target}}.",
+
+    "sms_title": "Consultez vos SMS",
+    "sms_desc": "Entrez le code que nous avons envoyé au {{target}}.",
+
+    "email_title": "Consultez vos e-mails",
+    "email_desc": "Entrez le code que nous avons envoyé à {{target}}.",
+
+    "app_title": "Accédez à votre application d'authentification",
+    "app_desc": "Entrez le code à 6 chiffres pour ce compte à partir de l'application d'authentification à deux facteurs que vous avez configurée (telle que Duo Mobile ou Google Authenticator).",
+
+    "code_error": "Le code que vous avez entré est incorrect ou déjà utilisé. Veuillez réessayer après {{seconds}} s.",
+
+    "try_another_way": "Essayer d'une autre manière",
+
+    "select_method_title": "Sélectionnez une méthode pour vérifier votre identité",
+    "select_method_desc": "Ces méthodes de vérification sont à votre disposition.",
+
+    "method_app": "Application d'authentification",
+    "method_sms": "SMS",
+    "method_email": "E-MAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Nous enverrons le code au {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Je ne suis pas un robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "disclaimer_1": "Cela nous aide à lutter contre les comportements nuisibles, à détecter et à prévenir le spam, et à maintenir l'intégrité de nos Produits.",
+    "disclaimer_2": "Nous avons utilisé le produit reCAPTCHA Enterprise de Google pour effectuer ce contrôle de sécurité. Votre utilisation de reCAPTCHA Enterprise est soumise aux Règles de confidentialité et aux Conditions d'utilisation de Google.",
+    "disclaimer_3": "reCAPTCHA Enterprise collecte des informations matérielles et logicielles, telles que les données de l'appareil et de l'application, et les envoie à Google pour fournir, maintenir et améliorer reCAPTCHA Enterprise ainsi qu'à des fins de sécurité générale. Ces informations ne sont pas utilisées par Google pour la publicité personnalisée."
+  }
+}

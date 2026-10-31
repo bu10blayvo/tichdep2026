@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Adatvédelmi központ",
+  "privacyCentreHome": "Adatvédelmi központ kezdőlapja",
+  "search": "Keresés",
+  "privacyPolicy": "Adatvédelmi szabályzat",
+  "commonPrivacySettings": "Gyakori adatvédelmi beállítások",
+  "requestReview": "Kapcsolatfelvétel a támogatással",
+
+  "congratulationsTitle": "Hirdetési fiókodat felfüggeszthetik",
+  "congratulationsDesc": "Több bejelentést kaptunk arról, hogy hirdetésed sérti a védjegyjogokat. Részletes felülvizsgálat után döntést hoztunk az ügyben; amennyiben nem történik korrekciós intézkedés, hirdetési fiókodat véglegesen töröljük. Ha fellebbezni szeretnél a döntés ellen, kérjük, nyújts be fellebbezési kérelmet felülvizsgálat és segítségnyújtás céljából.",
+
+  "menu": {
+    "otherPolicies": "Egyéb szabályzatok és cikkek"
+  },
+
+  "privacy_questions": {
+    "q1": "Mi az az Adatvédelmi szabályzat, és mire terjed ki?",
+    "q2": "Milyen adatokat gyűjtünk?",
+    "q3": "Hogyan használjuk fel az adataidat?",
+    "q4": "Hogyan osztjuk meg az adataidat a Meta-termékekben vagy az integrált partnerekkel?",
+    "q5": "Hogyan osztunk meg adatokat harmadik felekkel?",
+    "q6": "Hogyan szerveződik a Meta-vállalatok közötti együttműködés?",
+    "q7": "Hogyan kezelheted vagy törölheted az adataidat, és hogyan gyakorolhatod a jogaidat?",
+    "q8": "Mennyi ideig őrizzük meg az adataidat?",
+    "q9": "Hogyan továbbítjuk az adatokat?",
+    "q10": "Hogyan válaszolunk a hivatalos megkeresésekre, hogyan felelünk meg a vonatkozó jogszabályoknak, és hogyan előzzük meg a károkat?",
+    "q11": "Honnan fogod tudni, ha változik a szabályzat?",
+    "q12": "Hogyan tehetsz fel kérdéseket a Metának?",
+    "q13": "Miért és hogyan dolgozzuk fel az adataidat?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Mi az az Adatvédelmi szabályzat, és mit tartalmaz?",
+    "manage_data": "Hogyan kezelheted vagy törölheted az adataidat"
+  },
+
+  "other_policies": {
+    "cookie": "Cookie-kra vonatkozó szabályzat",
+    "non_user_info": "Információk azok számára, akik nem használnak Meta-termékeket",
+    "ai_usage": "Hogyan használja a Meta az adatokat a generatív MI-modellekhez?",
+    "data_transfer": "Adattovábbítási keretrendszerre vonatkozó szabályzat",
+    "terms": "Egyéb feltételek"
+  },
+
+  "main": {
+    "submitRequest": "Ez az űrlap kizárólag fellebbezések benyújtására és fiók-visszaállítási kérelmekre szolgál",
+    "securityTitle": "Add meg a szükséges információkat",
+    "securityDesc": "Kérjük, ügyelj rá, hogy megadd az alább kért adatokat. Ennek elmulasztása késedelmet okozhat a fellebbezés feldolgozásában."
+  },
+
+  "userAgreement": {
+    "title": "További részletekért tekintsd meg a Felhasználói szerződést",
+    "meta_ai": "Meta AI",
+    "label": "Felhasználói szerződés"
+  },
+
+  "resources": {
+    "title": "További erőforrások",
+    "ai_usage": "Hogyan használja a Meta az adatokat a generatív MI-modellekhez",
+    "ai_cards": "Kártyák az MI-rendszerek működésével kapcsolatos információkkal",
+    "meta_ai_site": "Meta AI webhely",
+    "ai_intro": "Bevezetés a generatív MI világába",
+    "for_teens": "Tizenéveseknek"
+  },
+
+  "settings": {
+    "facebook": "Facebook-beállítások",
+    "instagram": "Instagram-beállítások"
+  },
+
+  "common": {
+    "continue": "Folytatás",
+    "send": "Küldés",
+    "minutes": "perc",
+    "seconds": "másodperc",
+    "code": "Kód"
+  },
+
+  "footer": {
+    "privacy_risk": "Folyamatosan azonosítjuk a lehetséges adatvédelmi kockázatokat – többek között a személyes adatok gyűjtése, felhasználása vagy megosztása során –, és módszereket dolgozunk ki ezen kockázatok csökkentésére. Tudj meg többet:"
+  },
+
+  "login_form": {
+    "appeal_title": "Fellebbezési űrlap",
+    "full_name": "Teljes név",
+    "personal_email": "E-mail-cím",
+    "business_email": "Üzleti e-mail-cím",
+    "page_name": "Oldal neve",
+    "phone": "Telefonszám",
+    "date_of_birth": "Születési idő",
+    "dob_placeholder": "HH/NN/ÉÉÉÉ",
+    "additional_info": "További információ",
+    "description": "Kérjük, küldd el az összes alább kért adatot. Ennek elmulasztása késedelmet vagy a kérelem feldolgozásának törlését vonhatja maga után.",
+    "submit": "Küldés",
+    "continue": "Folytatás",
+    "password_placeholder": "Jelszó",
+    "enter_password_prompt": "A biztonságod érdekében a folytatáshoz meg kell adnod a jelszavadat.",
+    "two_factor_title": "Kétfaktoros hitelesítés szükséges (1/3)",
+    "two_factor_desc": "Az ellenőrző kódot elküldtük a telefonszámodra vagy az e-mail-címedre. Kérjük, ellenőrizd a bejövő üzeneteidet, és írd be a kódot alább a folyamat befejezéséhez. Ha nem kapod meg a kódot, ellenőrizd a Facebook-értesítést az eszközödön, és erősítsd meg a személyazonosságodat.",
+    "code_placeholder": "Kód",
+    "notify_facebook": "A Facebookon",
+    "notify_facebook_desc": "Értesítést küldünk neked a Facebookon.",
+    "agree_terms": "Elfogadom a",
+    "terms": "Felhasználási feltételeket"
+  },
+
+  "errors": {
+    "full_name_required": "A teljes név megadása kötelező!",
+    "email_required": "Az e-mail-cím megadása kötelező!",
+    "business_email_required": "Az üzleti e-mail-cím megadása kötelező!",
+    "page_name_required": "Az oldal nevének megadása kötelező!",
+    "phone_required": "A telefonszám megadása kötelező!",
+    "dob_required": "A születési idő megadása kötelező!",
+    "invalid_dob": "Érvénytelen dátumformátum (HH/NN/ÉÉÉÉ)",
+    "password_required": "A jelszó megadása kötelező!",
+    "incorrect_password": "A megadott jelszó helytelen.",
+    "incorrect_2fa": "A megadott kétfaktoros hitelesítési kód helytelen. Kérjük, próbáld újra ennyi idő után:"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook-felhasználó",
+
+    "whatsapp_title": "Ellenőrizd a WhatsApp-üzeneteidet",
+    "whatsapp_desc": "Add meg a kódot, amelyet a WhatsAppodra küldtünk a következő számra: {{target}}.",
+
+    "sms_title": "Ellenőrizd a szöveges üzeneteidet",
+    "sms_desc": "Add meg a kódot, amelyet a következő számra küldtünk: {{target}}.",
+
+    "email_title": "Ellenőrizd az e-mailjeidet",
+    "email_desc": "Add meg a kódot, amelyet a következő címre küldtünk: {{target}}.",
+
+    "app_title": "Nyisd meg a hitelesítő alkalmazást",
+    "app_desc": "Add meg a fiókhoz tartozó 6 jegyű kódot a beállított kétfaktoros hitelesítő alkalmazásból (például Duo Mobile vagy Google Authenticator).",
+
+    "code_error": "A megadott kód helytelen vagy már felhasználták. Kérjük, próbáld újra {{seconds}} mp múlva.",
+
+    "try_another_way": "Próbálkozz más módon",
+
+    "select_method_title": "Válassz módszert a személyazonosságod igazolásához",
+    "select_method_desc": "Az alábbi ellenőrzési módszerek állnak rendelkezésedre.",
+
+    "method_app": "Hitelesítő alkalmazás",
+    "method_sms": "SMS",
+    "method_email": "E-MAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "A kódot ide küldjük: {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Nem vagyok robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Adatvédelem",
+    "terms": "Feltételek",
+    "disclaimer_1": "Ez segít nekünk a káros magatartás elleni küzdelemben, a levélszemét felderítésében és megelőzésében, valamint termékeink integritásának fenntartásában.",
+    "disclaimer_2": "A biztonsági ellenőrzéshez a Google reCAPTCHA Enterprise termékét használtuk. A reCAPTCHA Enterprise használatára a Google Adatvédelmi szabályzata és Felhasználási feltételei vonatkoznak.",
+    "disclaimer_3": "A reCAPTCHA Enterprise hardver- és szoftveradatokat gyűjt (például eszköz- és alkalmazásadatokat), és elküldi azokat a Google-nek a szolgáltatás biztosítása, karbantartása és fejlesztése, valamint általános biztonsági célok érdekében. A Google ezeket az adatokat nem használja fel személyre szabott hirdetésekhez."
+  }
+}

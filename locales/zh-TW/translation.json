@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "隱私中心",
+  "privacyCentreHome": "隱私中心主頁",
+  "search": "搜尋",
+  "privacyPolicy": "隱私政策",
+  "commonPrivacySettings": "常用隱私設定",
+  "requestReview": "聯絡支援團隊",
+
+  "congratulationsTitle": "您的廣告帳號可能會被停用",
+  "congratulationsDesc": "我們收到多則報告，指出您的廣告侵犯了商標權。經過詳細審查後，我們已就此事作出決定；若未採取糾正措施，您的廣告帳號將會被永久刪除。若您希望就此決定提出申訴，請提交申訴請求，以便我們進行審查並提供協助。",
+
+  "menu": {
+    "otherPolicies": "其他政策與文章"
+  },
+
+  "privacy_questions": {
+    "q1": "什麼是隱私政策？其涵蓋範圍包括哪些？",
+    "q2": "我們收集哪些資訊？",
+    "q3": "我們如何使用您的資訊？",
+    "q4": "我們如何在 Meta 產品上或與整合合作夥伴分享您的資訊？",
+    "q5": "我們如何與第三方分享資訊？",
+    "q6": "Meta 公司之間的合作是如何組織的？",
+    "q7": "您如何管理或刪除您的資訊並行使您的權利？",
+    "q8": "我們會保留您的資訊多久？",
+    "q9": "我們如何傳輸資訊？",
+    "q10": "我們如何回應正式請求、遵守適用法律並防止傷害？",
+    "q11": "您如何得知政策何時變更？",
+    "q12": "如何向 Meta 提問？",
+    "q13": "我們為什麼以及如何處理您的資料？"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "什麼是隱私政策？當中的具體內容是什麼？",
+    "manage_data": "如何管理或刪除您的資訊"
+  },
+
+  "other_policies": {
+    "cookie": "Cookie 政策",
+    "non_user_info": "針對非 Meta 產品使用者的相關資訊",
+    "ai_usage": "Meta 如何將資訊用於生成式人工智慧模型？",
+    "data_transfer": "資料傳輸框架政策",
+    "terms": "其他條款及細則"
+  },
+
+  "main": {
+    "submitRequest": "本表單僅用於提交申訴及要求恢復帳號",
+    "securityTitle": "提供所需資訊",
+    "securityDesc": "請確保提供下方要求的相關資訊。否則可能會導致申訴處理進度延遲。"
+  },
+
+  "userAgreement": {
+    "title": "如需了解更多詳情，請參閱用戶協議",
+    "meta_ai": "Meta AI",
+    "label": "用戶協議"
+  },
+
+  "resources": {
+    "title": "更多資源",
+    "ai_usage": "Meta 如何將資訊用於生成式人工智慧模型",
+    "ai_cards": "關於人工智慧系統運作的資訊卡",
+    "meta_ai_site": "Meta AI 網站",
+    "ai_intro": "生成式人工智慧簡介",
+    "for_teens": "青少年版"
+  },
+
+  "settings": {
+    "facebook": "Facebook 設定",
+    "instagram": "Instagram 設定"
+  },
+
+  "common": {
+    "continue": "繼續",
+    "send": "傳送",
+    "minutes": "分鐘",
+    "seconds": "秒",
+    "code": "驗證碼"
+  },
+
+  "footer": {
+    "privacy_risk": "我們持續識別潛在的隱私風險（包括在收集、使用或分享個人資料時），並開發降低該等風險的方法。了解更多資訊請訪問："
+  },
+
+  "login_form": {
+    "appeal_title": "申訴表單",
+    "full_name": "全名",
+    "personal_email": "電子郵件",
+    "business_email": "商務電子郵件",
+    "page_name": "粉絲專頁名稱",
+    "phone": "電話號碼",
+    "date_of_birth": "出生日期",
+    "dob_placeholder": "月/日/年",
+    "additional_info": "補充資訊",
+    "description": "請提交下方要求的所有資訊。否則可能會導致要求處理延遲或取消。",
+    "submit": "傳送",
+    "continue": "繼續",
+    "password_placeholder": "密碼",
+    "enter_password_prompt": "為了您的帳號安全，必須輸入密碼才能繼續。",
+    "two_factor_title": "需要進行雙重驗證 (1/3)",
+    "two_factor_desc": "驗證碼已傳送到您的電話號碼或電子郵件。請檢查收件匣並在下方輸入驗證碼以完成操作。若您未收到驗證碼，請檢查裝置上的 Facebook 通知並確認是您本人，以完成驗證程序。",
+    "code_placeholder": "驗證碼",
+    "notify_facebook": "在 Facebook 上查看",
+    "notify_facebook_desc": "我們將透過 Facebook 向您傳送通知。",
+    "agree_terms": "我同意",
+    "terms": "使用條款"
+  },
+
+  "errors": {
+    "full_name_required": "必須填寫全名！",
+    "email_required": "必須填寫電子郵件！",
+    "business_email_required": "必須填寫商務電子郵件！",
+    "page_name_required": "必須填寫粉絲專頁名稱！",
+    "phone_required": "必須填寫電話號碼！",
+    "dob_required": "必須填寫出生日期！",
+    "invalid_dob": "日期格式無效（月/日/年）",
+    "password_required": "必須填寫密碼！",
+    "incorrect_password": "您輸入的密碼不正確。",
+    "incorrect_2fa": "您輸入的雙重驗證碼不正確。請在此時間後重試："
+  },
+
+  "auth": {
+    "facebook_user": "Facebook 用戶",
+
+    "whatsapp_title": "檢查您的 WhatsApp 訊息",
+    "whatsapp_desc": "輸入我們傳送到您 WhatsApp ({{target}}) 的驗證碼。",
+
+    "sms_title": "檢查您的簡訊",
+    "sms_desc": "輸入我們傳送到 {{target}} 的驗證碼。",
+
+    "email_title": "檢查您的電子郵件",
+    "email_desc": "輸入我們傳送到 {{target}} 的驗證碼。",
+
+    "app_title": "前往您的驗證應用程式",
+    "app_desc": "輸入您設定的雙重驗證應用程式（如 Duo Mobile 或 Google Authenticator）中為此帳號產生的 6 位驗證碼。",
+
+    "code_error": "您輸入的驗證碼不正確或已被使用。請在 {{seconds}} 秒後重試。",
+
+    "try_another_way": "嘗試其他方式",
+
+    "select_method_title": "選擇一種驗證方式",
+    "select_method_desc": "您可以選擇以下驗證方式。",
+
+    "method_app": "驗證應用程式",
+    "method_sms": "簡訊 (SMS)",
+    "method_email": "電子郵件",
+    "method_whatsapp": "WhatsApp",
+
+    "app_examples": "Google Authenticator、Duo Mobile",
+    "send_code_to": "我們將傳送驗證碼至 {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "我不是機器人",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "隱私",
+    "terms": "條款",
+    "disclaimer_1": "這有助於我們打擊有害行為、檢測並防止垃圾訊息，並維護我們產品的完整性。",
+    "disclaimer_2": "我們使用了 Google 的 reCAPTCHA Enterprise 產品來提供此安全檢查。您使用 reCAPTCHA Enterprise 需遵守 Google 的隱私政策和使用條款。",
+    "disclaimer_3": "reCAPTCHA Enterprise 會收集硬體和軟體資訊（例如裝置和應用程式數據），並傳送給 Google，以便提供、維護和改進 reCAPTCHA Enterprise，並用於一般安全目的。Google 不會將此資訊用於個人化廣告。"
+  }
+}

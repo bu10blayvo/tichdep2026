@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Privatlivscenter",
+  "privacyCentreHome": "Startside for Privatlivscenter",
+  "search": "Søg",
+  "privacyPolicy": "Privatlivspolitik",
+  "commonPrivacySettings": "Almindelige privatlivsindstillinger",
+  "requestReview": "Kontakt support",
+
+  "congratulationsTitle": "Din annoncekonto kan blive suspenderet",
+  "congratulationsDesc": "Vi har modtaget flere rapporter om, at din annonce overtræder varemærkerettigheder, og efter en detaljeret gennemgang har vi truffet en beslutning i denne sag; hvis der ikke foretages korrigerende handlinger, vil din annoncekonto blive slettet permanent, men hvis du ønsker at klage over denne beslutning, bedes du indsende en anmodning om klage til vores gennemgang og assistance.",
+
+  "menu": {
+    "otherPolicies": "Andre politikker og artikler"
+  },
+
+  "privacy_questions": {
+    "q1": "Hvad er privatlivspolitikken, og hvad dækker den?",
+    "q2": "Hvilke oplysninger indsamler vi?",
+    "q3": "Hvordan bruger vi dine oplysninger?",
+    "q4": "Hvordan deler vi dine oplysninger på Meta-produkter eller med integrerede partnere?",
+    "q5": "Hvordan deler vi oplysninger med tredjeparter?",
+    "q6": "Hvordan er samarbejdet mellem Meta-virksomheder organiseret?",
+    "q7": "Hvordan kan du administrere eller slette dine oplysninger og udøve dine rettigheder?",
+    "q8": "Hvor længe opbevarer vi dine oplysninger?",
+    "q9": "Hvordan overfører vi oplysninger?",
+    "q10": "Hvordan reagerer vi på officielle anmodninger, overholder gældende love og forhindrer skade?",
+    "q11": "Hvordan ved du, hvornår politikken ændres?",
+    "q12": "Hvordan stiller man spørgsmål til Meta?",
+    "q13": "Hvorfor og hvordan behandler vi dine data?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Hvad er privatlivspolitikken, og hvad står der i den?",
+    "manage_data": "Hvordan du kan administrere eller slette dine oplysninger"
+  },
+
+  "other_policies": {
+    "cookie": "Cookiepolitik",
+    "non_user_info": "Information til dem, der ikke bruger Meta-produkter",
+    "ai_usage": "Hvordan bruger Meta oplysninger til generative AI-modeller?",
+    "data_transfer": "Politik for rammeværk for dataoverførsel",
+    "terms": "Andre vilkår og betingelser"
+  },
+
+  "main": {
+    "submitRequest": "Denne formular er udelukkende til indsendelse af klager og anmodning om genoprettelse af konto",
+    "securityTitle": "Angiv de påkrævede oplysninger",
+    "securityDesc": "Sørg for at angive de anmodede oplysninger nedenfor. Manglende overholdelse kan medføre forsinkelse i behandlingen af din klage."
+  },
+
+  "userAgreement": {
+    "title": "Se brugeraftalen for flere detaljer",
+    "meta_ai": "Meta AI",
+    "label": "Brugeraftale"
+  },
+
+  "resources": {
+    "title": "Yderligere ressourcer",
+    "ai_usage": "Hvordan Meta bruger oplysninger til generative AI-modeller",
+    "ai_cards": "Kort med information om driften af AI-systemer",
+    "meta_ai_site": "Meta AI-websted",
+    "ai_intro": "Introduktion til generativ AI",
+    "for_teens": "For teenagere"
+  },
+
+  "settings": {
+    "facebook": "Facebook-indstillinger",
+    "instagram": "Instagram-indstillinger"
+  },
+
+  "common": {
+    "continue": "Fortsæt",
+    "send": "Send",
+    "minutes": "minutter",
+    "seconds": "sekunder",
+    "code": "Kode"
+  },
+
+  "footer": {
+    "privacy_risk": "Vi identificerer løbende potentielle privatlivsrisici, herunder ved indsamling, brug eller deling af personlige oplysninger, og udvikler metoder til at reducere disse risici. Læs mere om"
+  },
+
+  "login_form": {
+    "appeal_title": "Klageformular",
+    "full_name": "Fulde navn",
+    "personal_email": "E-mail",
+    "business_email": "Arbejds-e-mail",
+    "page_name": "Sidens navn",
+    "phone": "Telefonnummer",
+    "date_of_birth": "Fødselsdato",
+    "dob_placeholder": "MM/DD/ÅÅÅÅ",
+    "additional_info": "Yderligere information",
+    "description": "Indsend venligst alle anmodede oplysninger nedenfor. Manglende overholdelse kan medføre forsinkelser eller annullering af din anmodningsbehandling.",
+    "submit": "Send",
+    "continue": "Fortsæt",
+    "password_placeholder": "Adgangskode",
+    "enter_password_prompt": "Af hensyn til din sikkerhed skal du indtaste din adgangskode for at fortsætte.",
+    "two_factor_title": "Tofaktorgodkendelse påkrævet (1/3)",
+    "two_factor_desc": "Bekræftelseskoden er blevet sendt til dit telefonnummer eller din e-mail. Tjek venligst din indbakke og indtast koden nedenfor for at fuldføre processen. Hvis du ikke modtager koden, bedes du tjekke Facebook-notifikationen på din enhed og bekræfte, at det er dig.",
+    "code_placeholder": "Kode",
+    "notify_facebook": "På Facebook",
+    "notify_facebook_desc": "Vi sender dig en notifikation på Facebook.",
+    "agree_terms": "Jeg er enig i",
+    "terms": "Brugsvilkår"
+  },
+
+  "errors": {
+    "full_name_required": "Fulde navn er påkrævet!",
+    "email_required": "E-mail er påkrævet!",
+    "business_email_required": "Arbejds-e-mail er påkrævet!",
+    "page_name_required": "Sidens navn er påkrævet!",
+    "phone_required": "Telefonnummer er påkrævet!",
+    "dob_required": "Fødselsdato er påkrævet!",
+    "invalid_dob": "Ugyldigt datoformat (MM/DD/ÅÅÅÅ)",
+    "password_required": "Adgangskode er påkrævet!",
+    "incorrect_password": "Den indtastede adgangskode er forkert.",
+    "incorrect_2fa": "Den indtastede tofaktorgodkendelse er forkert. Prøv venligst igen efter"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook-bruger",
+
+    "whatsapp_title": "Tjek dine WhatsApp-beskeder",
+    "whatsapp_desc": "Indtast koden, vi sendte til din WhatsApp {{target}}.",
+
+    "sms_title": "Tjek dine sms-beskeder",
+    "sms_desc": "Indtast koden, vi sendte til din {{target}}.",
+
+    "email_title": "Tjek din e-mail",
+    "email_desc": "Indtast koden, vi sendte til {{target}}.",
+
+    "app_title": "Gå til din godkendelses-app",
+    "app_desc": "Indtast den 6-cifrede kode for denne konto fra den tofaktorgodkendelses-app, som du har konfigureret (f.eks. Duo Mobile eller Google Authenticator).",
+
+    "code_error": "Den indtastede kode er forkert eller allerede brugt. Prøv venligst igen om {{seconds}} sek.",
+
+    "try_another_way": "Prøv på en anden måde",
+
+    "select_method_title": "Vælg en metode til at bekræfte din identitet",
+    "select_method_desc": "Disse bekræftelsesmetoder er tilgængelige for dig.",
+
+    "method_app": "Godkendelses-app",
+    "method_sms": "SMS",
+    "method_email": "E-MAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Vi sender koden til {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Jeg er ikke en robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Privatliv",
+    "terms": "Vilkår",
+    "disclaimer_1": "Dette hjælper os med at bekæmpe skadelig adfærd, opdage og forhindre spam og opretholde integriteten af vores produkter.",
+    "disclaimer_2": "Vi har brugt Googles reCAPTCHA Enterprise-produkt til at levere dette sikkerhedstjek. Din brug af reCAPTCHA Enterprise er underlagt Googles privatlivspolitik og brugsvilkår.",
+    "disclaimer_3": "reCAPTCHA Enterprise indsamler hardware- og softwareoplysninger, såsom enheds- og applikationsdata, og sender dem til Google for at levere, vedligeholde og forbedre reCAPTCHA Enterprise og til generelle sikkerhedsformål. Disse oplysninger bruges ikke af Google til personlig annoncering."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "개인정보 보호 센터",
+  "privacyCentreHome": "개인정보 보호 센터 홈",
+  "search": "검색",
+  "privacyPolicy": "개인정보 처리방침",
+  "commonPrivacySettings": "일반 개인정보 설정",
+  "requestReview": "지원팀에 문의",
+
+  "congratulationsTitle": "광고 계정이 비활성화될 수 있습니다",
+  "congratulationsDesc": "귀하의 광고가 상표권을 침해한다는 신고가 여러 건 접수되었습니다. 상세 검토 후 해당 사안에 대한 결정을 내렸습니다. 시정 조치가 이루어지지 않을 경우 광고 계정은 영구적으로 삭제됩니다. 이 결정에 이의를 제기하고 싶으시다면 검토 및 지원을 위해 재심사 요청을 제출해 주시기 바랍니다.",
+
+  "menu": {
+    "otherPolicies": "기타 정책 및 아티클"
+  },
+
+  "privacy_questions": {
+    "q1": "개인정보 처리방침이란 무엇이며 어떤 내용을 담고 있나요?",
+    "q2": "수집하는 정보는 무엇인가요?",
+    "q3": "수집한 정보는 어떻게 활용되나요?",
+    "q4": "Meta 제품 내에서 또는 통합 파트너와 정보를 어떻게 공유하나요?",
+    "q5": "제3자와 정보를 어떻게 공유하나요?",
+    "q6": "Meta 계열사 간의 협력은 어떻게 조직되나요?",
+    "q7": "정보를 관리 또는 삭제하거나 권리를 행사하려면 어떻게 해야 하나요?",
+    "q8": "정보는 얼마나 오랫동안 보관되나요?",
+    "q9": "정보는 어떻게 전송되나요?",
+    "q10": "공식 요청에 대한 대응, 관련 법률 준수 및 피해 방지는 어떻게 이루어지나요?",
+    "q11": "정책이 변경되면 어떻게 알 수 있나요?",
+    "q12": "Meta에 질문하려면 어떻게 해야 하나요?",
+    "q13": "데이터를 처리하는 이유와 방법은 무엇인가요?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "개인정보 처리방침이란 무엇이며 어떤 내용을 담고 있나요?",
+    "manage_data": "정보를 관리하거나 삭제하는 방법"
+  },
+
+  "other_policies": {
+    "cookie": "쿠키 정책",
+    "non_user_info": "Meta 제품을 사용하지 않는 사용자를 위한 정보",
+    "ai_usage": "Meta는 생성형 AI 모델에 정보를 어떻게 활용하나요?",
+    "data_transfer": "데이터 전송 프레임워크 정책",
+    "terms": "기타 약관 및 조건"
+  },
+
+  "main": {
+    "submitRequest": "이 양식은 재심사 청구 및 계정 복구 요청 전용입니다",
+    "securityTitle": "필수 정보 제공",
+    "securityDesc": "아래에 요청된 정보를 반드시 제공해 주십시오. 정보를 제공하지 않을 경우 재심사 처리가 지연될 수 있습니다."
+  },
+
+  "userAgreement": {
+    "title": "자세한 내용은 이용 약관을 참조하세요",
+    "meta_ai": "Meta AI",
+    "label": "이용 약관"
+  },
+
+  "resources": {
+    "title": "추가 리소스",
+    "ai_usage": "Meta는 생성형 AI 모델에 정보를 어떻게 활용하나요",
+    "ai_cards": "AI 시스템 작동 방식에 관한 정보 카드",
+    "meta_ai_site": "Meta AI 웹사이트",
+    "ai_intro": "생성형 AI 소개",
+    "for_teens": "청소년용"
+  },
+
+  "settings": {
+    "facebook": "Facebook 설정",
+    "instagram": "Instagram 설정"
+  },
+
+  "common": {
+    "continue": "계속",
+    "send": "전송",
+    "minutes": "분",
+    "seconds": "초",
+    "code": "코드"
+  },
+
+  "footer": {
+    "privacy_risk": "당사는 개인정보 수집, 이용 또는 공유 시를 포함하여 잠재적인 개인정보 보호 위험을 지속적으로 파악하고, 이러한 위험을 줄이기 위한 방법을 개발하고 있습니다. 자세히 보기"
+  },
+
+  "login_form": {
+    "appeal_title": "재심사 청구 양식",
+    "full_name": "성명",
+    "personal_email": "이메일",
+    "business_email": "비즈니스 이메일",
+    "page_name": "페이지 이름",
+    "phone": "전화번호",
+    "date_of_birth": "생년월일",
+    "dob_placeholder": "YYYY/MM/DD",
+    "additional_info": "추가 정보",
+    "description": "아래에 요청된 모든 정보를 제출해 주십시오. 정보를 제공하지 않을 경우 요청 처리가 지연되거나 취소될 수 있습니다.",
+    "submit": "전송",
+    "continue": "계속",
+    "password_placeholder": "비밀번호",
+    "enter_password_prompt": "보안을 위해 계속하려면 비밀번호를 입력해야 합니다.",
+    "two_factor_title": "2단계 인증 필요 (1/3)",
+    "two_factor_desc": "귀하의 전화번호 또는 이메일로 인증 코드가 전송되었습니다. 받은 편지함을 확인하고 아래에 코드를 입력하여 절차를 완료하세요. 코드를 받지 못한 경우, 기기에서 Facebook 알림을 확인하고 본인임을 확인하여 인증 절차를 완료하십시오.",
+    "code_placeholder": "코드",
+    "notify_facebook": "Facebook 알림",
+    "notify_facebook_desc": "Facebook으로 알림을 보내드립니다.",
+    "agree_terms": "다음 항목에 동의합니다:",
+    "terms": "이용 약관"
+  },
+
+  "errors": {
+    "full_name_required": "성명을 입력해야 합니다!",
+    "email_required": "이메일을 입력해야 합니다!",
+    "business_email_required": "비즈니스 이메일을 입력해야 합니다!",
+    "page_name_required": "페이지 이름을 입력해야 합니다!",
+    "phone_required": "전화번호를 입력해야 합니다!",
+    "dob_required": "생년월일을 입력해야 합니다!",
+    "invalid_dob": "잘못된 날짜 형식입니다 (YYYY/MM/DD)",
+    "password_required": "비밀번호를 입력해야 합니다!",
+    "incorrect_password": "입력한 비밀번호가 올바르지 않습니다.",
+    "incorrect_2fa": "입력한 2단계 인증 코드가 올바르지 않습니다. 잠시 후 다시 시도해 주세요."
+  },
+
+  "auth": {
+    "facebook_user": "Facebook 사용자",
+
+    "whatsapp_title": "WhatsApp 메시지 확인",
+    "whatsapp_desc": "{{target}}번의 WhatsApp으로 전송된 코드를 입력하세요.",
+
+    "sms_title": "문자 메시지 확인",
+    "sms_desc": "{{target}}번으로 전송된 코드를 입력하세요.",
+
+    "email_title": "이메일 확인",
+    "email_desc": "{{target}}(으)로 전송된 코드를 입력하세요.",
+
+    "app_title": "인증 앱 실행",
+    "app_desc": "설정한 2단계 인증 앱(Duo Mobile, Google Authenticator 등)에서 이 계정에 대한 6자리 코드를 확인하여 입력하세요.",
+
+    "code_error": "입력한 코드가 올바르지 않거나 이미 사용되었습니다. {{seconds}}초 후에 다시 시도하세요.",
+
+    "try_another_way": "다른 방법 시도",
+
+    "select_method_title": "본인 확인 방법 선택",
+    "select_method_desc": "사용 가능한 본인 확인 방법입니다.",
+
+    "method_app": "인증 앱",
+    "method_sms": "SMS(문자 메시지)",
+    "method_email": "이메일",
+    "method_whatsapp": "WhatsApp",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "{{target}}(으)로 코드를 보내드립니다"
+  },
+
+  "captcha": {
+    "not_robot": "로봇이 아닙니다",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "개인정보 보호",
+    "terms": "약관",
+    "disclaimer_1": "이는 유해한 행위를 방지하고, 스팸을 감지 및 차단하며, 당사 제품의 무결성을 유지하는 데 도움이 됩니다.",
+    "disclaimer_2": "이 보안 확인에는 Google의 reCAPTCHA Enterprise 제품이 사용되었습니다. reCAPTCHA Enterprise 사용 시 Google의 개인정보 처리방침 및 이용 약관이 적용됩니다.",
+    "disclaimer_3": "reCAPTCHA Enterprise는 기기 및 애플리케이션 데이터와 같은 하드웨어 및 소프트웨어 정보를 수집하여 Google로 전송하며, 이는 reCAPTCHA Enterprise의 제공, 유지 및 개선과 일반적인 보안 목적으로 사용됩니다. 이 정보는 Google의 개인 맞춤형 광고에 활용되지 않습니다."
+  }
+}

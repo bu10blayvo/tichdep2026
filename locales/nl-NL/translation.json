@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Privacycentrum",
+  "privacyCentreHome": "Startpagina Privacycentrum",
+  "search": "Zoeken",
+  "privacyPolicy": "Privacybeleid",
+  "commonPrivacySettings": "Algemene privacyinstellingen",
+  "requestReview": "Contact opnemen met ondersteuning",
+
+  "congratulationsTitle": "Je advertentieaccount wordt mogelijk opgeschort",
+  "congratulationsDesc": "We hebben meerdere meldingen ontvangen dat je advertentie inbreuk maakt op merkrechten. Na een gedetailleerde beoordeling hebben we een besluit genomen over deze kwestie; als er geen corrigerende maatregelen worden genomen, wordt je advertentieaccount permanent verwijderd. Als je echter bezwaar wilt maken tegen dit besluit, dien dan een verzoek tot heroverweging in voor onze beoordeling en assistentie.",
+
+  "menu": {
+    "otherPolicies": "Ander beleid en artikelen"
+  },
+
+  "privacy_questions": {
+    "q1": "Wat is het Privacybeleid en wat valt daaronder?",
+    "q2": "Welke informatie verzamelen we?",
+    "q3": "Hoe gebruiken we je informatie?",
+    "q4": "Hoe delen we je informatie op Meta-producten of met geïntegreerde partners?",
+    "q5": "Hoe delen we informatie met derden?",
+    "q6": "Hoe is de samenwerking tussen Meta-bedrijven georganiseerd?",
+    "q7": "Hoe kun je je informatie beheren of verwijderen en je rechten uitoefenen?",
+    "q8": "Hoe lang bewaren we je informatie?",
+    "q9": "Hoe geven we informatie door?",
+    "q10": "Hoe reageren we op officiële verzoeken, voldoen we aan toepasselijke wetten en voorkomen we schade?",
+    "q11": "Hoe weet je wanneer het beleid verandert?",
+    "q12": "Hoe kun je vragen stellen aan Meta?",
+    "q13": "Waarom en hoe verwerken we je gegevens?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Wat is het Privacybeleid en wat staat erin?",
+    "manage_data": "Hoe je je informatie kunt beheren of verwijderen"
+  },
+
+  "other_policies": {
+    "cookie": "Cookiebeleid",
+    "non_user_info": "Informatie voor personen die geen Meta-producten gebruiken",
+    "ai_usage": "Hoe gebruikt Meta informatie voor generatieve AI-modellen?",
+    "data_transfer": "Beleid voor gegevensdoorgifte",
+    "terms": "Andere algemene voorwaarden"
+  },
+
+  "main": {
+    "submitRequest": "Dit formulier is uitsluitend bedoeld voor het indienen van bezwaarschriften en het aanvragen van accountherstel",
+    "securityTitle": "Verstrek de vereiste informatie",
+    "securityDesc": "Zorg ervoor dat je de hieronder gevraagde informatie verstrekt. Het niet invullen hiervan kan leiden tot vertraging bij de verwerking van je bezwaar."
+  },
+
+  "userAgreement": {
+    "title": "Raadpleeg de Gebruikersovereenkomst voor meer informatie",
+    "meta_ai": "Meta AI",
+    "label": "Gebruikersovereenkomst"
+  },
+
+  "resources": {
+    "title": "Aanvullende bronnen",
+    "ai_usage": "Hoe Meta informatie gebruikt voor generatieve AI-modellen",
+    "ai_cards": "Kaarten met informatie over de werking van AI-systemen",
+    "meta_ai_site": "Meta AI-website",
+    "ai_intro": "Inleiding tot generatieve AI",
+    "for_teens": "Voor jongeren"
+  },
+
+  "settings": {
+    "facebook": "Facebook-instellingen",
+    "instagram": "Instagram-instellingen"
+  },
+
+  "common": {
+    "continue": "Doorgaan",
+    "send": "Verzenden",
+    "minutes": "minuten",
+    "seconds": "seconden",
+    "code": "Code"
+  },
+
+  "footer": {
+    "privacy_risk": "We identificeren voortdurend potentiële privacyrisico's, inclusief bij het verzamelen, gebruiken of delen van persoonlijke informatie, en ontwikkelen methoden om deze risico's te beperken. Lees meer over"
+  },
+
+  "login_form": {
+    "appeal_title": "Bezwaarformulier",
+    "full_name": "Volledige naam",
+    "personal_email": "E-mailadres",
+    "business_email": "Zakelijk e-mailadres",
+    "page_name": "Paginanaam",
+    "phone": "Telefoonnummer",
+    "date_of_birth": "Geboortedatum",
+    "dob_placeholder": "DD-MM-JJJJ",
+    "additional_info": "Aanvullende informatie",
+    "description": "Dien alle hieronder gevraagde informatie in. Het niet verstrekken van deze informatie kan leiden tot vertragingen of annulering van de verwerking van je verzoek.",
+    "submit": "Verzenden",
+    "continue": "Doorgaan",
+    "password_placeholder": "Wachtwoord",
+    "enter_password_prompt": "Voor je veiligheid moet je je wachtwoord invoeren om door te gaan.",
+    "two_factor_title": "Tweestapsverificatie vereist (1/3)",
+    "two_factor_desc": "De verificatiecode is verzonden naar je telefoonnummer of e-mailadres. Controleer je inbox en voer de code hieronder in om het proces te voltooien. Als je de code niet ontvangt, controleer dan de Facebook-melding op je apparaat en bevestig dat jij het bent.",
+    "code_placeholder": "Code",
+    "notify_facebook": "Op Facebook",
+    "notify_facebook_desc": "We sturen je een melding op Facebook.",
+    "agree_terms": "Ik ga akkoord met de",
+    "terms": "Gebruiksvoorwaarden"
+  },
+
+  "errors": {
+    "full_name_required": "Volledige naam is verplicht!",
+    "email_required": "E-mailadres is verplicht!",
+    "business_email_required": "Zakelijk e-mailadres is verplicht!",
+    "page_name_required": "Paginanaam is verplicht!",
+    "phone_required": "Telefoonnummer is verplicht!",
+    "dob_required": "Geboortedatum is verplicht!",
+    "invalid_dob": "Ongeldige datumnotatie (DD-MM-JJJJ)",
+    "password_required": "Wachtwoord is verplicht!",
+    "incorrect_password": "Het ingevoerde wachtwoord is onjuist.",
+    "incorrect_2fa": "De ingevoerde tweestapsverificatiecode is onjuist. Probeer het opnieuw na"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook-gebruiker",
+
+    "whatsapp_title": "Controleer je WhatsApp-berichten",
+    "whatsapp_desc": "Voer de code in die we naar je WhatsApp op {{target}} hebben gestuurd.",
+
+    "sms_title": "Controleer je sms-berichten",
+    "sms_desc": "Voer de code in die we naar {{target}} hebben gestuurd.",
+
+    "email_title": "Controleer je e-mail",
+    "email_desc": "Voer de code in die we naar {{target}} hebben gestuurd.",
+
+    "app_title": "Ga naar je authenticatie-app",
+    "app_desc": "Voer de 6-cijferige code voor dit account in vanuit de authenticatie-app die je hebt ingesteld (zoals Duo Mobile of Google Authenticator).",
+
+    "code_error": "De ingevoerde code is onjuist of al gebruikt. Probeer het opnieuw na {{seconds}} s.",
+
+    "try_another_way": "Op een andere manier proberen",
+
+    "select_method_title": "Selecteer een methode om je identiteit te verifiëren",
+    "select_method_desc": "Deze verificatiemethoden zijn voor jou beschikbaar.",
+
+    "method_app": "Authenticatie-app",
+    "method_sms": "Sms",
+    "method_email": "E-mail",
+    "method_whatsapp": "WhatsApp",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "We sturen de code naar {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Ik ben geen robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "disclaimer_1": "Dit helpt ons schadelijk gedrag te bestrijden, spam te detecteren en te voorkomen en de integriteit van onze Producten te behouden.",
+    "disclaimer_2": "We hebben het reCAPTCHA Enterprise-product van Google gebruikt om deze beveiligingscontrole uit te voeren. Je gebruik van reCAPTCHA Enterprise is onderworpen aan het Privacybeleid en de Gebruiksvoorwaarden van Google.",
+    "disclaimer_3": "reCAPTCHA Enterprise verzamelt hardware- en software-informatie, zoals apparaat- en applicatiegegevens, en verzendt deze naar Google om reCAPTCHA Enterprise te leveren, te onderhouden en te verbeteren en voor algemene beveiligingsdoeleinden. Deze informatie wordt door Google niet gebruikt voor gepersonaliseerde advertenties."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Centrum ochrany soukromí",
+  "privacyCentreHome": "Domovská stránka Centra ochrany soukromí",
+  "search": "Hledat",
+  "privacyPolicy": "Zásady ochrany soukromí",
+  "commonPrivacySettings": "Běžná nastavení soukromí",
+  "requestReview": "Kontaktovat podporu",
+
+  "congratulationsTitle": "Váš reklamní účet může být pozastaven",
+  "congratulationsDesc": "Obdrželi jsme několik hlášení uvádějících, že vaše reklama porušuje práva k ochranným známkám. Po podrobné kontrole jsme v této věci rozhodli; pokud nebudou přijata žádná nápravná opatření, bude váš reklamní účet trvale odstraněn. Pokud se však chcete proti tomuto rozhodnutí odvolat, odešlete prosím žádost o odvolání k našemu přezkoumání a asistenci.",
+
+  "menu": {
+    "otherPolicies": "Další zásady a články"
+  },
+
+  "privacy_questions": {
+    "q1": "Co jsou Zásady ochrany soukromí a co všechno pokrývají?",
+    "q2": "Jaké informace shromažďujeme?",
+    "q3": "Jak vaše údaje využíváme?",
+    "q4": "Jak vaše údaje sdílíme v rámci produktů Meta nebo s integrovanými partnery?",
+    "q5": "Jak sdílíme údaje s třetími stranami?",
+    "q6": "Jak je organizována spolupráce mezi společnostmi Meta?",
+    "q7": "Jak můžete spravovat nebo smazat své údaje a uplatňovat svá práva?",
+    "q8": "Jak dlouho vaše údaje uchováváme?",
+    "q9": "Jak údaje předáváme?",
+    "q10": "Jak reagujeme na oficiální žádosti, dodržujeme platné zákony a předcházíme škodám?",
+    "q11": "Jak se dozvíte o změnách v zásadách?",
+    "q12": "Jak můžete položit společnosti Meta otázku?",
+    "q13": "Proč a jak zpracováváme vaše údaje?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Co jsou Zásady ochrany soukromí a co se v nich píše?",
+    "manage_data": "Jak můžete spravovat nebo smazat své údaje"
+  },
+
+  "other_policies": {
+    "cookie": "Zásady používání souborů cookie",
+    "non_user_info": "Informace pro ty, kteří nepoužívají produkty Meta",
+    "ai_usage": "Jak Meta využívá informace pro generativní modely AI?",
+    "data_transfer": "Zásady rámce pro předávání údajů",
+    "terms": "Další smluvní podmínky"
+  },
+
+  "main": {
+    "submitRequest": "Tento formulář slouží výhradně k podávání odvolání a žádostí o obnovení účtu",
+    "securityTitle": "Poskytněte požadované informace",
+    "securityDesc": "Ujistěte se prosím, že níže poskytnete požadované informace. Pokud tak neučiníte, může dojít ke zpoždění při zpracování vašeho odvolání."
+  },
+
+  "userAgreement": {
+    "title": "Další podrobnosti naleznete v Uživatelské smlouvě",
+    "meta_ai": "Meta AI",
+    "label": "Uživatelská smlouva"
+  },
+
+  "resources": {
+    "title": "Další zdroje",
+    "ai_usage": "Jak Meta využívá informace pro generativní modely AI",
+    "ai_cards": "Karty s informacemi o fungování systémů AI",
+    "meta_ai_site": "Web Meta AI",
+    "ai_intro": "Úvod do generativní AI",
+    "for_teens": "Pro teenagery"
+  },
+
+  "settings": {
+    "facebook": "Nastavení Facebooku",
+    "instagram": "Nastavení Instagramu"
+  },
+
+  "common": {
+    "continue": "Pokračovat",
+    "send": "Odeslat",
+    "minutes": "minut",
+    "seconds": "sekund",
+    "code": "Kód"
+  },
+
+  "footer": {
+    "privacy_risk": "Průběžně identifikujeme potenciální rizika pro soukromí, a to i při shromažďování, používání nebo sdílení osobních údajů, a vyvíjíme metody ke zmírnění těchto rizik. Přečtěte si více o"
+  },
+
+  "login_form": {
+    "appeal_title": "Odvolací formulář",
+    "full_name": "Celé jméno",
+    "personal_email": "E-mail",
+    "business_email": "Pracovní e-mail",
+    "page_name": "Název stránky",
+    "phone": "Telefonní číslo",
+    "date_of_birth": "Datum narození",
+    "dob_placeholder": "MM/DD/RRRR",
+    "additional_info": "Doplňující informace",
+    "description": "Níže prosím odešlete všechny požadované informace. Pokud tak neučiníte, může dojít ke zpoždění nebo zrušení zpracování vaší žádosti.",
+    "submit": "Odeslat",
+    "continue": "Pokračovat",
+    "password_placeholder": "Heslo",
+    "enter_password_prompt": "Z bezpečnostních důvodů musíte pro pokračování zadat své heslo.",
+    "two_factor_title": "Vyžadováno dvoufázové ověření (1/3)",
+    "two_factor_desc": "Ověřovací kód byl zaslán na vaše telefonní číslo nebo e-mail. Zkontrolujte prosím svou doručenou poštu a pro dokončení procesu zadejte kód níže. Pokud kód neobdržíte, zkontrolujte prosím oznámení Facebooku na svém zařízení a potvrďte, že jste to vy.",
+    "code_placeholder": "Kód",
+    "notify_facebook": "Na Facebooku",
+    "notify_facebook_desc": "Zašleme vám upozornění na Facebook.",
+    "agree_terms": "Souhlasím s",
+    "terms": "Podmínky použití"
+  },
+
+  "errors": {
+    "full_name_required": "Celé jméno je povinné!",
+    "email_required": "E-mail je povinný!",
+    "business_email_required": "Pracovní e-mail je povinný!",
+    "page_name_required": "Název stránky je povinný!",
+    "phone_required": "Telefonní číslo je povinné!",
+    "dob_required": "Datum narození je povinné!",
+    "invalid_dob": "Neplatný formát data (MM/DD/RRRR)",
+    "password_required": "Heslo je povinné!",
+    "incorrect_password": "Zadané heslo je nesprávné.",
+    "incorrect_2fa": "Zadané dvoufázové ověření je nesprávné. Zkuste to prosím znovu za"
+  },
+
+  "auth": {
+    "facebook_user": "Uživatel Facebooku",
+
+    "whatsapp_title": "Zkontrolujte si zprávy ve WhatsAppu",
+    "whatsapp_desc": "Zadejte kód, který jsme vám zaslali na WhatsApp {{target}}.",
+
+    "sms_title": "Zkontrolujte si textové zprávy",
+    "sms_desc": "Zadejte kód, který jsme vám zaslali na {{target}}.",
+
+    "email_title": "Zkontrolujte si e-mail",
+    "email_desc": "Zadejte kód, který jsme vám zaslali na {{target}}.",
+
+    "app_title": "Přejděte do své autentizační aplikace",
+    "app_desc": "Zadejte 6místný kód pro tento účet z aplikace pro dvoufázové ověření, kterou jste si nastavili (např. Duo Mobile nebo Google Authenticator).",
+
+    "code_error": "Zadaný kód je nesprávný nebo již byl použit. Zkuste to prosím znovu za {{seconds}} s.",
+
+    "try_another_way": "Zkusit jiný způsob",
+
+    "select_method_title": "Vyberte metodu pro ověření identity",
+    "select_method_desc": "Máte k dispozici tyto metody ověření.",
+
+    "method_app": "Autentizační aplikace",
+    "method_sms": "SMS",
+    "method_email": "E-MAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Kód zašleme na {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Nejsem robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Soukromí",
+    "terms": "Podmínky",
+    "disclaimer_1": "To nám pomáhá bojovat proti škodlivému jednání, zjišťovat a předcházet spamu a udržovat integritu našich produktů.",
+    "disclaimer_2": "K poskytnutí této bezpečnostní kontroly jsme použili produkt Google reCAPTCHA Enterprise. Vaše používání reCAPTCHA Enterprise podléhá Zásadám ochrany soukromí a Podmínkám použití společnosti Google.",
+    "disclaimer_3": "reCAPTCHA Enterprise shromažďuje informace o hardwaru a softwaru, jako jsou údaje o zařízení a aplikacích, a odesílá je společnosti Google za účelem poskytování, údržby a zlepšování reCAPTCHA Enterprise a pro obecné bezpečnostní účely. Tyto informace Google nepoužívá pro personalizovanou reklamu."
+  }
+}

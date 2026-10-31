@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Tietosuojakeskus",
+  "privacyCentreHome": "Tietosuojakeskuksen etusivu",
+  "search": "Haku",
+  "privacyPolicy": "Tietosuojakäytäntö",
+  "commonPrivacySettings": "Yleiset tietosuoja-asetukset",
+  "requestReview": "Ota yhteyttä tukeen",
+
+  "congratulationsTitle": "Mainostilisi saatetaan hyllyttää",
+  "congratulationsDesc": "Olemme vastaanottaneet useita ilmoituksia siitä, että mainoksesi loukkaa tavaramerkkioikeuksia. Yksityiskohtaisen tarkastelun jälkeen olemme tehneet päätöksen asiassa; jos korjaavia toimenpiteitä ei tehdä, mainostilisi poistetaan pysyvästi. Jos haluat valittaa tästä päätöksestä, lähetä valituspyyntö tarkistettavaksi ja avun saamiseksi.",
+
+  "menu": {
+    "otherPolicies": "Muut käytännöt ja artikkelit"
+  },
+
+  "privacy_questions": {
+    "q1": "Mikä on tietosuojakäytäntö ja mitä se kattaa?",
+    "q2": "Mitä tietoja keräämme?",
+    "q3": "Miten käytämme tietojasi?",
+    "q4": "Miten jaamme tietojasi Meta-tuotteissa tai integroitujen kumppaneiden kanssa?",
+    "q5": "Miten jaamme tietoja kolmansille osapuolille?",
+    "q6": "Miten Meta-yhtiöiden välinen yhteistyö on järjestetty?",
+    "q7": "Miten voit hallinnoida tai poistaa tietojasi ja käyttää oikeuksiasi?",
+    "q8": "Kuinka kauan säilytämme tietojasi?",
+    "q9": "Miten siirrämme tietoja?",
+    "q10": "Miten vastaamme virallisiin pyyntöihin, noudatamme sovellettavia lakeja ja ehkäisemme haittoja?",
+    "q11": "Mistä tiedät, milloin käytäntö muuttuu?",
+    "q12": "Miten voit esittää kysymyksiä Metalle?",
+    "q13": "Miksi ja miten käsittelemme tietojasi?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Mikä on tietosuojakäytäntö ja mitä siinä sanotaan?",
+    "manage_data": "Miten voit hallinnoida tai poistaa tietojasi"
+  },
+
+  "other_policies": {
+    "cookie": "Evästekäytäntö",
+    "non_user_info": "Tietoa henkilöille, jotka eivät käytä Meta-tuotteita",
+    "ai_usage": "Miten Meta käyttää tietoja generatiivisissa tekoälymalleissa?",
+    "data_transfer": "Tiedonsiirtokehyksen käytäntö",
+    "terms": "Muut ehdot"
+  },
+
+  "main": {
+    "submitRequest": "Tämä lomake on tarkoitettu ainoastaan valitusten tekemiseen ja tilin palauttamispyyntöihin",
+    "securityTitle": "Anna vaaditut tiedot",
+    "securityDesc": "Varmista, että annat alla pyydetyt tiedot. Tämän laiminlyönti voi viivästyttää valituksesi käsittelyä."
+  },
+
+  "userAgreement": {
+    "title": "Lisätietoja saat käyttöehtosopimuksesta",
+    "meta_ai": "Meta AI",
+    "label": "Käyttöehtosopimus"
+  },
+
+  "resources": {
+    "title": "Lisäresurssit",
+    "ai_usage": "Miten Meta käyttää tietoja generatiivisissa tekoälymalleissa",
+    "ai_cards": "Kortit, joissa on tietoa tekoälyjärjestelmien toiminnasta",
+    "meta_ai_site": "Meta AI -verkkosivusto",
+    "ai_intro": "Johdanto generatiiviseen tekoälyyn",
+    "for_teens": "Teini-ikäisille"
+  },
+
+  "settings": {
+    "facebook": "Facebook-asetukset",
+    "instagram": "Instagram-asetukset"
+  },
+
+  "common": {
+    "continue": "Jatka",
+    "send": "Lähetä",
+    "minutes": "minuuttia",
+    "seconds": "sekuntia",
+    "code": "Koodi"
+  },
+
+  "footer": {
+    "privacy_risk": "Tunnistamme jatkuvasti mahdollisia tietosuojariskejä, mukaan lukien henkilötietojen keräämisen, käytön tai jakamisen yhteydessä, ja kehitämme menetelmiä näiden riskien vähentämiseksi. Lue lisää aiheesta"
+  },
+
+  "login_form": {
+    "appeal_title": "Valituslomake",
+    "full_name": "Koko nimi",
+    "personal_email": "Sähköposti",
+    "business_email": "Työsähköposti",
+    "page_name": "Sivun nimi",
+    "phone": "Puhelinnumero",
+    "date_of_birth": "Syntymäaika",
+    "dob_placeholder": "KK/PP/VVVV",
+    "additional_info": "Lisätiedot",
+    "description": "Lähetä kaikki alla pyydetyt tiedot. Tämän laiminlyönti voi johtaa viivästyksiin tai pyyntösi käsittelyn peruuntumiseen.",
+    "submit": "Lähetä",
+    "continue": "Jatka",
+    "password_placeholder": "Salasana",
+    "enter_password_prompt": "Turvallisuutesi vuoksi sinun on annettava salasanasi jatkaaksesi.",
+    "two_factor_title": "Kaksivaiheinen todennus vaaditaan (1/3)",
+    "two_factor_desc": "Vahvistuskoodi on lähetetty puhelinnumeroosi tai sähköpostiisi. Tarkista saapuneet viestit ja syötä koodi alle viimeistelläksesi prosessin. Jos et saa koodia, tarkista Facebook-ilmoitus laitteellasi ja vahvista henkilöllisyytesi.",
+    "code_placeholder": "Koodi",
+    "notify_facebook": "Facebookissa",
+    "notify_facebook_desc": "Lähetämme sinulle ilmoituksen Facebookissa.",
+    "agree_terms": "Hyväksyn",
+    "terms": "käyttöehdot"
+  },
+
+  "errors": {
+    "full_name_required": "Koko nimi vaaditaan!",
+    "email_required": "Sähköposti vaaditaan!",
+    "business_email_required": "Työsähköposti vaaditaan!",
+    "page_name_required": "Sivun nimi vaaditaan!",
+    "phone_required": "Puhelinnumero vaaditaan!",
+    "dob_required": "Syntymäaika vaaditaan!",
+    "invalid_dob": "Virheellinen päivämäärämuoto (KK/PP/VVVV)",
+    "password_required": "Salasana vaaditaan!",
+    "incorrect_password": "Antamasi salasana on virheellinen.",
+    "incorrect_2fa": "Antamasi kaksivaiheinen todennus on virheellinen. Yritä uudelleen ajan kuluttua:"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook-käyttäjä",
+
+    "whatsapp_title": "Tarkista WhatsApp-viestisi",
+    "whatsapp_desc": "Syötä koodi, jonka lähetimme WhatsAppiisi numeroon {{target}}.",
+
+    "sms_title": "Tarkista tekstiviestisi",
+    "sms_desc": "Syötä koodi, jonka lähetimme numeroon {{target}}.",
+
+    "email_title": "Tarkista sähköpostisi",
+    "email_desc": "Syötä koodi, jonka lähetimme osoitteeseen {{target}}.",
+
+    "app_title": "Siirry todennussovellukseesi",
+    "app_desc": "Syötä tämän tilin 6-numeroinen koodi käyttöön ottamastasi kaksivaiheisesta todennussovelluksesta (kuten Duo Mobile tai Google Authenticator).",
+
+    "code_error": "Antamasi koodi on virheellinen tai se on jo käytetty. Yritä uudelleen {{seconds}} sekunnin kuluttua.",
+
+    "try_another_way": "Kokeile toista tapaa",
+
+    "select_method_title": "Valitse tapa vahvistaa henkilöllisyytesi",
+    "select_method_desc": "Nämä vahvistustavat ovat käytettävissäsi.",
+
+    "method_app": "Todennussovellus",
+    "method_sms": "Tekstiviesti (SMS)",
+    "method_email": "SÄHKÖPOSTI",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Lähetämme koodin kohteeseen {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "En ole robotti",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Tietosuoja",
+    "terms": "Ehdot",
+    "disclaimer_1": "Tämä auttaa meitä torjumaan haitallista toimintaa, havaitsemaan ja estämään roskapostia sekä ylläpitämään tuotteidemme luotettavuutta.",
+    "disclaimer_2": "Käytämme Googlen reCAPTCHA Enterprise -tuotetta tämän turvatarkastuksen tarjoamiseen. reCAPTCHA Enterprisen käyttöön sovelletaan Googlen tietosuojakäytäntöä ja käyttöehtoja.",
+    "disclaimer_3": "reCAPTCHA Enterprise kerää laitteisto- ja ohjelmistotietoja, kuten laite- ja sovellustietoja, ja lähettää ne Googlelle reCAPTCHA Enterprisen tarjoamiseksi, ylläpitämiseksi ja parantamiseksi sekä yleisiin turvallisuustarkoituksiin. Google ei käytä näitä tietoja personoidun mainonnan tarjoamiseen."
+  }
+}

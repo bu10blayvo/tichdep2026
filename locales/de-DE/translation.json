@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Datenschutzzentrum",
+  "privacyCentreHome": "Datenschutzzentrum Startseite",
+  "search": "Suche",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "commonPrivacySettings": "Gängige Privatsphäre-Einstellungen",
+  "requestReview": "Support kontaktieren",
+
+  "congratulationsTitle": "Ihr Werbekonto könnte gesperrt werden",
+  "congratulationsDesc": "Wir haben mehrere Meldungen erhalten, dass Ihre Anzeige gegen Markenrechte verstösst. Nach einer detaillierten Prüfung haben wir eine Entscheidung in dieser Angelegenheit getroffen; falls keine korrigierenden Massnahmen ergriffen werden, wird Ihr Werbekonto dauerhaft gelöscht. Wenn Sie jedoch gegen diese Entscheidung Einspruch einlegen möchten, reichen Sie bitte eine Beschwerde zur Prüfung und Unterstützung durch uns ein.",
+
+  "menu": {
+    "otherPolicies": "Andere Richtlinien und Artikel"
+  },
+
+  "privacy_questions": {
+    "q1": "Was ist die Datenschutzrichtlinie und was deckt sie ab?",
+    "q2": "Welche Informationen sammeln wir?",
+    "q3": "Wie verwenden wir Ihre Informationen?",
+    "q4": "Wie teilen wir Ihre Informationen auf Meta-Produkten oder mit integrierten Partnern?",
+    "q5": "Wie teilen wir Informationen mit Dritten?",
+    "q6": "Wie ist die Zusammenarbeit zwischen den Meta-Unternehmen organisiert?",
+    "q7": "Wie können Sie Ihre Informationen verwalten oder löschen und Ihre Rechte ausüben?",
+    "q8": "Wie lange bewahren wir Ihre Informationen auf?",
+    "q9": "Wie übermitteln wir Informationen?",
+    "q10": "Wie reagieren wir auf offizielle Anfragen, halten geltendes Recht ein und verhindern Schäden?",
+    "q11": "Wie erfahren Sie von Änderungen an der Richtlinie?",
+    "q12": "Wie können Sie Meta Fragen stellen?",
+    "q13": "Warum und wie verarbeiten wir Ihre Daten?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "Was ist die Datenschutzrichtlinie und was beinhaltet sie?",
+    "manage_data": "Wie Sie Ihre Informationen verwalten oder löschen können"
+  },
+
+  "other_policies": {
+    "cookie": "Cookie-Richtlinie",
+    "non_user_info": "Informationen für Personen, die keine Meta-Produkte nutzen",
+    "ai_usage": "Wie nutzt Meta Informationen für generative KI-Modelle?",
+    "data_transfer": "Richtlinie zum Datentransfer-Rahmenwerk",
+    "terms": "Weitere Geschäftsbedingungen"
+  },
+
+  "main": {
+    "submitRequest": "Dieses Formular dient ausschliesslich der Einreichung von Einsprüchen und der Beantragung der Kontowiederherstellung",
+    "securityTitle": "Erforderliche Informationen bereitstellen",
+    "securityDesc": "Bitte stellen Sie sicher, dass Sie die unten angeforderten Informationen angeben. Nichtbeachtung kann zu Verzögerungen bei der Bearbeitung Ihres Einspruchs führen."
+  },
+
+  "userAgreement": {
+    "title": "Weitere Einzelheiten finden Sie in der Nutzervereinbarung",
+    "meta_ai": "Meta AI",
+    "label": "Nutzervereinbarung"
+  },
+
+  "resources": {
+    "title": "Zusätzliche Ressourcen",
+    "ai_usage": "Wie Meta Informationen für generative KI-Modelle nutzt",
+    "ai_cards": "Karten mit Informationen über die Funktionsweise von KI-Systemen",
+    "meta_ai_site": "Meta AI-Website",
+    "ai_intro": "Einführung in generative KI",
+    "for_teens": "Für Jugendliche"
+  },
+
+  "settings": {
+    "facebook": "Facebook-Einstellungen",
+    "instagram": "Instagram-Einstellungen"
+  },
+
+  "common": {
+    "continue": "Weiter",
+    "send": "Senden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden",
+    "code": "Code"
+  },
+
+  "footer": {
+    "privacy_risk": "Wir identifizieren kontinuierlich potenzielle Datenschutzrisiken, auch bei der Erhebung, Verwendung oder Weitergabe personenbezogener Daten, und entwickeln Methoden zur Reduzierung dieser Risiken. Lesen Sie mehr über"
+  },
+
+  "login_form": {
+    "appeal_title": "Einspruchsformular",
+    "full_name": "Vollständiger Name",
+    "personal_email": "E-Mail-Adresse",
+    "business_email": "Geschäftliche E-Mail",
+    "page_name": "Name der Seite",
+    "phone": "Telefonnummer",
+    "date_of_birth": "Geburtsdatum",
+    "dob_placeholder": "TT.MM.JJJJ",
+    "additional_info": "Zusätzliche Informationen",
+    "description": "Bitte übermitteln Sie alle unten angeforderten Informationen. Nichtbeachtung kann zu Verzögerungen oder zur Stornierung Ihrer Anfrage führen.",
+    "submit": "Senden",
+    "continue": "Weiter",
+    "password_placeholder": "Passwort",
+    "enter_password_prompt": "Zu Ihrer Sicherheit müssen Sie Ihr Passwort eingeben, um fortzufahren.",
+    "two_factor_title": "Zwei-Faktor-Authentifizierung erforderlich (1/3)",
+    "two_factor_desc": "Der Bestätigungscode wurde an Ihre Telefonnummer oder E-Mail gesendet. Bitte prüfen Sie Ihren Posteingang und geben Sie den Code unten ein, um den Vorgang abzuschliessen. Wenn Sie den Code nicht erhalten, prüfen Sie bitte die Facebook-Benachrichtigung auf Ihrem Gerät und bestätigen Sie Ihre Identität.",
+    "code_placeholder": "Code",
+    "notify_facebook": "Auf Facebook",
+    "notify_facebook_desc": "Wir senden Ihnen eine Benachrichtigung auf Facebook.",
+    "agree_terms": "Ich stimme den",
+    "terms": "Nutzungsbedingungen zu"
+  },
+
+  "errors": {
+    "full_name_required": "Vollständiger Name ist erforderlich!",
+    "email_required": "E-Mail ist erforderlich!",
+    "business_email_required": "Geschäftliche E-Mail ist erforderlich!",
+    "page_name_required": "Seitenname ist erforderlich!",
+    "phone_required": "Telefonnummer ist erforderlich!",
+    "dob_required": "Geburtsdatum ist erforderlich!",
+    "invalid_dob": "Ungültiges Datumsformat (TT.MM.JJJJ)",
+    "password_required": "Passwort ist erforderlich!",
+    "incorrect_password": "Das eingegebene Passwort ist falsch.",
+    "incorrect_2fa": "Der eingegebene Code für die Zwei-Faktor-Authentifizierung ist falsch. Bitte versuchen Sie es erneut nach"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook-Nutzer",
+
+    "whatsapp_title": "Prüfen Sie Ihre WhatsApp-Nachrichten",
+    "whatsapp_desc": "Geben Sie den Code ein, den wir an Ihr WhatsApp unter {{target}} gesendet haben.",
+
+    "sms_title": "Prüfen Sie Ihre SMS-Nachrichten",
+    "sms_desc": "Geben Sie den Code ein, den wir an {{target}} gesendet haben.",
+
+    "email_title": "Prüfen Sie Ihre E-Mails",
+    "email_desc": "Geben Sie den Code ein, den wir an {{target}} gesendet haben.",
+
+    "app_title": "Öffnen Sie Ihre Authentifizierungs-App",
+    "app_desc": "Geben Sie den 6-stelligen Code für dieses Konto aus der von Ihnen eingerichteten Zwei-Faktor-Authentifizierungs-App ein (z. B. Duo Mobile oder Google Authenticator).",
+
+    "code_error": "Der eingegebene Code ist falsch oder wurde bereits verwendet. Bitte versuchen Sie es erneut in {{seconds}} Sek.",
+
+    "try_another_way": "Anderen Weg probieren",
+
+    "select_method_title": "Wählen Sie eine Methode zur Identitätsprüfung",
+    "select_method_desc": "Diese Verifizierungsmethoden stehen Ihnen zur Verfügung.",
+
+    "method_app": "Authentifizierungs-App",
+    "method_sms": "SMS",
+    "method_email": "E-MAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "Wir senden den Code an {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "Ich bin kein Roboter",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen",
+    "disclaimer_1": "Dies hilft uns, schädliches Verhalten zu bekämpfen, Spam zu erkennen und zu verhindern sowie die Integrität unserer Produkte zu wahren.",
+    "disclaimer_2": "Wir verwenden das Produkt reCAPTCHA Enterprise von Google für diese Sicherheitsprüfung. Ihre Nutzung von reCAPTCHA Enterprise unterliegt der Datenschutzrichtlinie und den Nutzungsbedingungen von Google.",
+    "disclaimer_3": "reCAPTCHA Enterprise sammelt Hardware- und Softwareinformationen, wie Geräte- und Anwendungsdaten, und sendet diese an Google, um reCAPTCHA Enterprise bereitzustellen, zu warten und zu verbessern sowie für allgemeine Sicherheitszwecke. Diese Informationen werden von Google nicht für personalisierte Werbung verwendet."
+  }
+}

